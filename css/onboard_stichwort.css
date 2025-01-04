@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+table.stichwort { 
+								border:0px;
+}
+
+td.stichwort a { 
+						display:block; 
+						border:0px; 
+						color:#FF0000;
+						text-decoration:none; 
+						background-color:#2A2A2A;
+						width:120px;
+
+}
+
+td.stichwort a:focus, td.stichwort a:hover { 
+						color:#FFFFFF; 
+						background-color:#FF0000; 
+}
+
+
+
+
+td.stichwort { 
+						text-align:center;
+						text-decoration:none; 
+						font-size:20px;
+  					font-weight:500;
+						
+}
+
+
+div.inhaltsverzeichnis {
+						margin-bottom:40px;
+						font-size:16px;
+						line-height: 22px;
+						border:1px solid #2A2A2A;
+						background:#000000 url("images/pfeil_b_over.gif") -50px 4px no-repeat; 
+}
+
+div.inhaltsverzeichnis ul{
+						padding:0;
+						margin-left:5px;
+						margin-bottom:0px;
+						margin-top:0px;
+}
+
+div.inhaltsverzeichnis .i-punkt, div.inhaltsverzeichnis .i-punkt-k  {
+						list-style-type:none;
+}
+
+.i-punkt-k {
+						margin-top:20px;
+						margin-bottom:20px;
+						}
+
+li.i-punkt-k li{
+						margin-left:8px;
+}
+
+
+
+
+
+
+

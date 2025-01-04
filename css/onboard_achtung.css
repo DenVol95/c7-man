@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+/* Hinweise */
+
+
+div.achtung .titel {
+						background:#222222 url("images/achtung_titel.gif") 5px 3px no-repeat;
+						font-weight:900;
+						padding:2px 2px 2px 32px;
+}
+div.vorsicht .titel {
+						background:#222222 url("images/vorsicht_titel.gif") 5px 3px no-repeat;
+						font-weight:900;
+						padding:2px 2px 2px 32px; 
+}
+div.umwelt .titel {
+						background:#222222 url("images/umwelt_titel.gif") 5px 3px no-repeat;
+						font-weight:900;
+						padding:2px 2px 2px 32px; 
+}
+div.hinweis .titel {
+						background:#222222 url("images/hinweis_titel.gif") 5px 3px no-repeat;
+						font-weight:900;
+						padding:2px 2px 2px 32px; 
+}
+div.achtung .absatz, div.vorsicht .absatz, div.umwelt .absatz, div.hinweis .absatz {
+						margin-bottom:0px;
+						}
+
+
+.achtung, .vorsicht, .umwelt, .hinweis {
+						border:1px solid #222222;
+						font-size:16px;
+						line-height: 22px;
+						margin-bottom:40px;
+}
+
+
+
+
+
+
+
+
+/* Ende Hinweise */

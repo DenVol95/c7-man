@@ -1,0 +1,753 @@
+<!DOCTYPE index PUBLIC "-//DOSCO AUDI//DTD XML INDEX//DE">
+<index>
+<idx><i1>MMI</i1><i2>Органы управления</i2><linkfile>m_m00007.htm</linkfile><linkid>m_I2-0001</linkid></idx>
+<idx><i1>Органы управления</i1><i2>Обзор панели приборов управления</i2><linkfile>m_m00007.htm</linkfile><linkid>m_I2-0002</linkid></idx>
+<idx><i1>MMI</i1><i2>Компоненты</i2><linkfile>m_m00008.htm</linkfile><linkid>m_I2-0003</linkid></idx>
+<idx><i1>Инструкции</i1><i2>Безопасность движения</i2><linkfile>m_m00009.htm</linkfile><linkid>m_I2-0004</linkid></idx>
+<idx><i1>Безопасность движения</i1><linkfile>m_m00009.htm</linkfile><linkid>m_I1-0005</linkid></idx>
+<idx><i1>Уход</i1><i2>Терминал MMI</i2><linkfile>m_m00010.htm</linkfile><linkid>m_I2-0006</linkid></idx>
+<idx><i1>Указания</i1><i2>Уход за терминалом MMI</i2><linkfile>m_m00010.htm</linkfile><linkid>m_I2-0007</linkid></idx>
+<idx><i1>Включение/выключение</i1><i2>Терминал MMI</i2><linkfile>m_m00012.htm</linkfile><linkid>m_I2-0008</linkid></idx>
+<idx><i1>MMI</i1><i2>Включение/выключение</i2><linkfile>m_m00012.htm</linkfile><linkid>m_I2-0009</linkid></idx>
+<idx><i1>Дисплей MMI</i1><i2>Выдвижение/складывание</i2><linkfile>m_m00013.htm</linkfile><linkid>m_I2-0010</linkid></idx>
+<idx><i1>Органы управления</i1><i2>Терминал MMI</i2><linkfile>m_m00014.htm</linkfile><linkid>m_I2-0011</linkid></idx>
+<idx><i1>Клавиши</i1><i2>Терминал MMI</i2><linkfile>m_m00014.htm</linkfile><linkid>m_I2-0012</linkid></idx>
+<idx><i1>MMI</i1><i2>Терминал</i2><linkfile>m_m00014.htm</linkfile><linkid>m_I2-0013</linkid></idx>
+<idx><i1>Клавиши управления</i1><linkfile>m_m00014.htm</linkfile><linkid>m_I1-0014</linkid></idx>
+<idx><i1>Кнопка управления</i1><linkfile>m_m00014.htm</linkfile><linkid>m_I1-0015</linkid></idx>
+<idx><i1>Кнопка управления с функцией джойстика</i1><linkfile>m_m00014.htm</linkfile><linkid>m_I1-0016</linkid></idx>
+<idx><i1>Функциональные клавиши</i1><linkfile>m_m00014.htm</linkfile><linkid>m_I1-0017</linkid></idx>
+<idx><i1>Кнопка включения/выключения</i1><linkfile>m_m00014.htm</linkfile><linkid>m_I1-0018</linkid></idx>
+<idx><i1>Клавиши прямого выбора</i1><linkfile>m_m00014.htm</linkfile><linkid>m_I1-0019</linkid></idx>
+<idx><i1>Клавиши со стрелками</i1><linkfile>m_m00014.htm</linkfile><linkid>m_I1-0020</linkid></idx>
+<idx><i1>Панель управления «MMI touch»</i1><linkfile>m_m00014.htm</linkfile><linkid>m_I1-0021</linkid></idx>
+<idx><i1>Органы управления</i1><i2>Терминал MMI</i2><linkfile>m_m00015.htm</linkfile><linkid>m_I2-0022</linkid></idx>
+<idx><i1>Принцип управления</i1><i2>Терминал MMI</i2><linkfile>m_m00015.htm</linkfile><linkid>m_I2-0023</linkid></idx>
+<idx><i1>MMI</i1><i2>Порядок управления</i2><linkfile>m_m00015.htm</linkfile><linkid>m_I2-0024</linkid></idx>
+<idx><i1>MMI touch</i1><i2>Перемещение карты</i2><linkfile>m_m00016.htm</linkfile><linkid>m_I2-0025</linkid></idx>
+<idx><i1>MMI touch</i1><i2>Настройка баланса/соотношения громкости спереди/сзади</i2><linkfile>m_m00016.htm</linkfile><linkid>m_I2-0026</linkid></idx>
+<idx><i1>MMI touch</i1><i2>Настройка центра звучания</i2><linkfile>m_m00016.htm</linkfile><linkid>m_I2-0027</linkid></idx>
+<idx><i1>MMI touch</i1><i2>Ввод букв/чисел/знаков</i2><linkfile>m_m00016.htm</linkfile><linkid>m_I2-0028</linkid></idx>
+<idx><i1>MMI touch</i1><i2>Удаление ввода</i2><linkfile>m_m00016.htm</linkfile><linkid>m_I2-0029</linkid></idx>
+<idx><i1>MMI touch</i1><i2>Подтверждение ввода</i2><linkfile>m_m00016.htm</linkfile><linkid>m_I2-0030</linkid></idx>
+<idx><i1>MMI touch</i1><i2>Основное меню DVD</i2><linkfile>m_m00016.htm</linkfile><linkid>m_I2-0031</linkid></idx>
+<idx><i1>MMI touch</i1><i2>Пролистывание обложек альбомов</i2><linkfile>m_m00016.htm</linkfile><linkid>m_I2-0032</linkid></idx>
+<idx><i1>Кнопка управления с функцией джойстика</i1><linkfile>m_m00017.htm</linkfile><linkid>m_I1-0033</linkid></idx>
+<idx><i1>Функция джойстика</i1><i2>Перемещение карты</i2><linkfile>m_m00017.htm</linkfile><linkid>m_I2-0034</linkid></idx>
+<idx><i1>Функция джойстика</i1><i2>Работа с основным меню DVD</i2><linkfile>m_m00017.htm</linkfile><linkid>m_I2-0035</linkid></idx>
+<idx><i1>Функция джойстика</i1><i2>Настройка баланса/соотношения громкости спереди/сзади</i2><linkfile>m_m00017.htm</linkfile><linkid>m_I2-0036</linkid></idx>
+<idx><i1>Функция джойстика</i1><i2>Настройка центра звучания</i2><linkfile>m_m00017.htm</linkfile><linkid>m_I2-0037</linkid></idx>
+<idx><i1>Дисплей MMI</i1><i2>Редактор</i2><linkfile>m_m00018.htm</linkfile><linkid>m_I2-0038</linkid></idx>
+<idx><i1>Редактор ввода букв</i1><linkfile>m_m00018.htm</linkfile><linkid>m_I1-0039</linkid></idx>
+<idx><i1>Редактор ввода чисел</i1><linkfile>m_m00018.htm</linkfile><linkid>m_I1-0040</linkid></idx>
+<idx><i1>Редактор ввода букв</i1><i2>Ввод букв</i2><linkfile>m_m00019.htm</linkfile><linkid>m_I2-0041</linkid></idx>
+<idx><i1>Редактор ввода букв</i1><i2>Удаление букв</i2><linkfile>m_m00019.htm</linkfile><linkid>m_I2-0042</linkid></idx>
+<idx><i1>Редактор ввода чисел</i1><i2>Ввод чисел</i2><linkfile>m_m00019.htm</linkfile><linkid>m_I2-0043</linkid></idx>
+<idx><i1>Редактор ввода чисел</i1><i2>Удаление чисел</i2><linkfile>m_m00019.htm</linkfile><linkid>m_I2-0044</linkid></idx>
+<idx><i1>MMI</i1><i2>Символы/меню</i2><linkfile>m_m00020.htm</linkfile><linkid>m_I2-0045</linkid></idx>
+<idx><i1>Основные функции</i1><i2>Сигналы (тембр)</i2><linkfile>m_m00022.htm</linkfile><linkid>m_I2-0046</linkid></idx>
+<idx><i1>Звучание</i1><i2>Основные функции</i2><linkfile>m_m00022.htm</linkfile><linkid>m_I2-0047</linkid></idx>
+<idx><i1>Низкие частоты (тембр)</i1><linkfile>m_m00022.htm</linkfile><linkid>m_I1-0048</linkid></idx>
+<idx><i1>Высокие частоты (тембр)</i1><linkfile>m_m00022.htm</linkfile><linkid>m_I1-0049</linkid></idx>
+<idx><i1>Соотношение громкости спереди/сзади (тембр)</i1><linkfile>m_m00022.htm</linkfile><linkid>m_I1-0050</linkid></idx>
+<idx><i1>Баланс (тембр)</i1><linkfile>m_m00022.htm</linkfile><linkid>m_I1-0051</linkid></idx>
+<idx><i1>Низкочастотный динамик (тембр)</i1><linkfile>m_m00022.htm</linkfile><linkid>m_I1-0052</linkid></idx>
+<idx><i1>Тембр</i1><i2>Основные настройки</i2><linkfile>m_m00023.htm</linkfile><linkid>m_I2-0053</linkid></idx>
+<idx><i1>Низкие частоты (тембр)</i1><linkfile>m_m00023.htm</linkfile><linkid>m_I1-0054</linkid></idx>
+<idx><i1>Высокие частоты (тембр)</i1><linkfile>m_m00023.htm</linkfile><linkid>m_I1-0055</linkid></idx>
+<idx><i1>Соотношение громкости звука спереди/сзади (тембр)</i1><linkfile>m_m00023.htm</linkfile><linkid>m_I1-0056</linkid></idx>
+<idx><i1>Баланс (тембр)</i1><linkfile>m_m00023.htm</linkfile><linkid>m_I1-0057</linkid></idx>
+<idx><i1>Низкочастотный динамик (тембр)</i1><linkfile>m_m00023.htm</linkfile><linkid>m_I1-0058</linkid></idx>
+<idx><i1>Тембр</i1><i2>DSP</i2><linkfile>m_m00024.htm</linkfile><linkid>m_I2-0059</linkid></idx>
+<idx><i1>DSP</i1><linkfile>m_m00024.htm</linkfile><linkid>m_I1-0060</linkid></idx>
+<idx><i1>GALA</i1><linkfile>m_m00024.htm</linkfile><linkid>m_I1-0061</linkid></idx>
+<idx><i1>Настройка звучания</i1><linkfile>m_m00024.htm</linkfile><linkid>m_I1-0062</linkid></idx>
+<idx><i1>DSP BOSE</i1><linkfile>m_m00025.htm</linkfile><linkid>m_I1-0063</linkid></idx>
+<idx><i1>Тембр</i1><i2>DSP BOSE</i2><linkfile>m_m00025.htm</linkfile><linkid>m_I2-0064</linkid></idx>
+<idx><i1>Настройка звучания</i1><linkfile>m_m00025.htm</linkfile><linkid>m_I1-0065</linkid></idx>
+<idx><i1>Объемное звучание</i1><linkfile>m_m00025.htm</linkfile><linkid>m_I1-0066</linkid></idx>
+<idx><i1>Система «AudioPilot»</i1><linkfile>m_m00025.htm</linkfile><linkid>m_I1-0067</linkid></idx>
+<idx><i1>Тембр</i1><i2>DSP Bang &amp; Olufsen</i2><linkfile>m_m00026.htm</linkfile><linkid>m_I2-0068</linkid></idx>
+<idx><i1>DSP Bang &amp; Olufsen</i1><linkfile>m_m00026.htm</linkfile><linkid>m_I1-0069</linkid></idx>
+<idx><i1>Sound Fokus</i1><linkfile>m_m00026.htm</linkfile><linkid>m_I1-0070</linkid></idx>
+<idx><i1>Объемное звучание</i1><linkfile>m_m00026.htm</linkfile><linkid>m_I1-0071</linkid></idx>
+<idx><i1>Регулировка громкости звука</i1><linkfile>m_m00026.htm</linkfile><linkid>m_I1-0072</linkid></idx>
+<idx><i1>Регулировка громкости звука</i1><i2>Терминал MMI</i2><linkfile>m_m00028.htm</linkfile><linkid>m_I2-0073</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>Активный аудио-/видеоисточник</i2><linkfile>m_m00028.htm</linkfile><linkid>m_I2-0074</linkid></idx>
+<idx><i1>Mute</i1><i2>Терминал MMI</i2><linkfile>m_m00028.htm</linkfile><linkid>m_I2-0075</linkid></idx>
+<idx><i1>Отключение звука</i1><i2>Терминал MMI</i2><linkfile>m_m00028.htm</linkfile><linkid>m_I2-0076</linkid></idx>
+<idx><i1>Речевые инструкции навигационной системы</i1><i2>Регулировка громкости</i2><linkfile>m_m00029.htm</linkfile><linkid>m_I2-0077</linkid></idx>
+<idx><i1>Навигационные сообщения</i1><i2>Выкл./полностью/сокращенно</i2><linkfile>m_m00029.htm</linkfile><linkid>m_I2-0078</linkid></idx>
+<idx><i1>Навигационные сообщения</i1><i2>Громкость</i2><linkfile>m_m00029.htm</linkfile><linkid>m_I2-0079</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>Навигация</i2><linkfile>m_m00029.htm</linkfile><linkid>m_I2-0080</linkid></idx>
+<idx><i1>Навигационные сообщения</i1><i2>Вкл./выкл. при телефонной связи</i2><linkfile>m_m00029.htm</linkfile><linkid>m_I2-0081</linkid></idx>
+<idx><i1>Развлекательные функции при навигационных сообщениях</i1><linkfile>m_m00029.htm</linkfile><linkid>m_I1-0082</linkid></idx>
+<idx><i1>Дорожное радио</i1><i2>Громкость дорожного радио</i2><linkfile>m_m00030.htm</linkfile><linkid>m_I2-0083</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>Дорожное радио</i2><linkfile>m_m00030.htm</linkfile><linkid>m_I2-0084</linkid></idx>
+<idx><i1>Дорожное радио</i1><i2>Вкл./выкл.</i2><linkfile>m_m00030.htm</linkfile><linkid>m_I2-0085</linkid></idx>
+<idx><i1>Настройка сигнала вызова</i1><linkfile>m_m00031.htm</linkfile><linkid>m_I1-0086</linkid></idx>
+<idx><i1>Регулировка громкости звука</i1><i2>Телефон</i2><linkfile>m_m00031.htm</linkfile><linkid>m_I2-0087</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Регулировка громкости</i2><linkfile>m_m00032.htm</linkfile><linkid>m_I2-0088</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00032.htm</linkfile><linkid>m_I2-0089</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>MMI touch</i2><linkfile>m_m00032.htm</linkfile><linkid>m_I2-0090</linkid></idx>
+<idx><i1>Установка времени</i1><linkfile>m_m00033.htm</linkfile><linkid>m_I1-0091</linkid></idx>
+<idx><i1>Установка даты</i1><linkfile>m_m00033.htm</linkfile><linkid>m_I1-0092</linkid></idx>
+<idx><i1>Кварцевые часы</i1><linkfile>m_m00033.htm</linkfile><linkid>m_I1-0093</linkid></idx>
+<idx><i1>GPS</i1><linkfile>m_m00033.htm</linkfile><linkid>m_I1-0094</linkid></idx>
+<idx><i1>Электронная версия руководства по эксплуатации</i1><linkfile>m_m00034.htm</linkfile><linkid>m_I1-0095</linkid></idx>
+<idx><i1>Повторный запуск (MMI)</i1><linkfile>m_m00035.htm</linkfile><linkid>m_I1-0096</linkid></idx>
+<idx><i1>Перезагрузка (MMI)</i1><linkfile>m_m00035.htm</linkfile><linkid>m_I1-0097</linkid></idx>
+<idx><i1>MMI</i1><i2>Повторный запуск</i2><linkfile>m_m00035.htm</linkfile><linkid>m_I2-0098</linkid></idx>
+<idx><i1>Настройка языка меню</i1><i2>Терминал MMI</i2><linkfile>m_m00037.htm</linkfile><linkid>m_I2-0099</linkid></idx>
+<idx><i1>Настройка языка</i1><i2>Терминал MMI</i2><linkfile>m_m00037.htm</linkfile><linkid>m_I2-0100</linkid></idx>
+<idx><i1>Единицы</i1><linkfile>m_m00038.htm</linkfile><linkid>m_I1-0101</linkid></idx>
+<idx><i1>Единицы измерения</i1><linkfile>m_m00038.htm</linkfile><linkid>m_I1-0102</linkid></idx>
+<idx><i1>Индивидуальная настройка речи</i1><linkfile>m_m00039.htm</linkfile><linkid>m_I1-0103</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Настройки</i2><linkfile>m_m00039.htm</linkfile><linkid>m_I2-0104</linkid></idx>
+<idx><i1>Речевые адреса</i1><i2>Удаление</i2><linkfile>m_m00039.htm</linkfile><linkid>m_I2-0105</linkid></idx>
+<idx><i1>Сокращенный диалог</i1><linkfile>m_m00039.htm</linkfile><linkid>m_I1-0106</linkid></idx>
+<idx><i1>Сигнал ввода</i1><linkfile>m_m00039.htm</linkfile><linkid>m_I1-0107</linkid></idx>
+<idx><i1>Яркость</i1><i2>Дисплей MMI</i2><linkfile>m_m00040.htm</linkfile><linkid>m_I2-0108</linkid></idx>
+<idx><i1>Дисплей MMI</i1><i2>Яркость</i2><linkfile>m_m00040.htm</linkfile><linkid>m_I2-0109</linkid></idx>
+<idx><i1>Заводские настройки</i1><i2>Терминал MMI</i2><linkfile>m_m00041.htm</linkfile><linkid>m_I2-0110</linkid></idx>
+<idx><i1>Обновление системы</i1><i2>Терминал MMI</i2><linkfile>m_m00042.htm</linkfile><linkid>m_I2-0111</linkid></idx>
+<idx><i1>Кодировка данных</i1><linkfile>m_m00043.htm</linkfile><linkid>m_I1-0112</linkid></idx>
+<idx><i1>Версия</i1><i2>Программное обеспечение MMI</i2><linkfile>m_m00044.htm</linkfile><linkid>m_I2-0113</linkid></idx>
+<idx><i1>Версия</i1><i2>Программное обеспечение навигационной системы</i2><linkfile>m_m00044.htm</linkfile><linkid>m_I2-0114</linkid></idx>
+<idx><i1>Дисководы</i1><linkfile>m_h00045.htm</linkfile><linkid>m_I1-0115</linkid></idx>
+<idx><i1>Форматы файлов</i1><linkfile>m_m00047.htm</linkfile><linkid>m_I1-0116</linkid></idx>
+<idx><i1>Дисководы</i1><i2>Терминал MMI</i2><linkfile>m_m00047.htm</linkfile><linkid>m_I2-0117</linkid></idx>
+<idx><i1>Указания</i1><i2>Обращение с CD/DVD</i2><linkfile>m_m00048.htm</linkfile><linkid>m_I2-0118</linkid></idx>
+<idx><i1>Уход</i1><i2>CD/DVD</i2><linkfile>m_m00048.htm</linkfile><linkid>m_I2-0119</linkid></idx>
+<idx><i1>CD/DVD</i1><i2>Указания по использованию</i2><linkfile>m_m00048.htm</linkfile><linkid>m_I2-0120</linkid></idx>
+<idx><i1>Плата памяти</i1><i2>Указания по обращению</i2><linkfile>m_m00049.htm</linkfile><linkid>m_I2-0121</linkid></idx>
+<idx><i1>Уход</i1><i2>Платы памяти</i2><linkfile>m_m00049.htm</linkfile><linkid>m_I2-0122</linkid></idx>
+<idx><i1>Указания</i1><i2>Обращение с платами памяти</i2><linkfile>m_m00049.htm</linkfile><linkid>m_I2-0123</linkid></idx>
+<idx><i1>Jukebox</i1><linkfile>m_k00050.htm</linkfile><linkid>m_I1-0124</linkid></idx>
+<idx><i1>Дисководы</i1><i2>Jukebox</i2><linkfile>m_k00050.htm</linkfile><linkid>m_I2-0125</linkid></idx>
+<idx><i1>Файлы</i1><i2>Копирование</i2><linkfile>m_m00052.htm</linkfile><linkid>m_I2-0126</linkid></idx>
+<idx><i1>Jukebox</i1><i2>Копирование файлов</i2><linkfile>m_m00052.htm</linkfile><linkid>m_I2-0127</linkid></idx>
+<idx><i1>Аудио-/видеофайлы</i1><i2>Копирование</i2><linkfile>m_m00052.htm</linkfile><linkid>m_I2-0128</linkid></idx>
+<idx><i1>Файлы</i1><i2>Удаление</i2><linkfile>m_m00053.htm</linkfile><linkid>m_I2-0129</linkid></idx>
+<idx><i1>Jukebox</i1><i2>Удаление файлов</i2><linkfile>m_m00053.htm</linkfile><linkid>m_I2-0130</linkid></idx>
+<idx><i1>Аудио-/видеофайлы</i1><i2>Удаление</i2><linkfile>m_m00053.htm</linkfile><linkid>m_I2-0131</linkid></idx>
+<idx><i1>Jukebox</i1><i2>Объем памяти</i2><linkfile>m_m00054.htm</linkfile><linkid>m_I2-0132</linkid></idx>
+<idx><i1>Объем памяти Jukebox</i1><linkfile>m_m00054.htm</linkfile><linkid>m_I1-0133</linkid></idx>
+<idx><i1>Дисковод для DVD</i1><linkfile>m_k00055.htm</linkfile><linkid>m_I1-0134</linkid></idx>
+<idx><i1>MP3-файлы</i1><linkfile>m_k00055.htm</linkfile><linkid>m_I1-0135</linkid></idx>
+<idx><i1>WMA-файлы</i1><linkfile>m_k00055.htm</linkfile><linkid>m_I1-0136</linkid></idx>
+<idx><i1>AAC-файлы</i1><linkfile>m_k00055.htm</linkfile><linkid>m_I1-0137</linkid></idx>
+<idx><i1>Дисководы</i1><i2>Дисковод для DVD</i2><linkfile>m_k00055.htm</linkfile><linkid>m_I2-0138</linkid></idx>
+<idx><i1>Компакт-диск/DVD-диск</i1><i2>Загрузка (дисковод DVD-дисков)</i2><linkfile>m_m00057.htm</linkfile><linkid>m_I2-0139</linkid></idx>
+<idx><i1>Компакт-диск/DVD-диск</i1><i2>Извлечение (дисковод DVD-дисков)</i2><linkfile>m_m00057.htm</linkfile><linkid>m_I2-0140</linkid></idx>
+<idx><i1>CD/DVD</i1><i2>Устройство смены дисков</i2><linkfile>m_k00058.htm</linkfile><linkid>m_I2-0141</linkid></idx>
+<idx><i1>Файлы в формате MP3</i1><linkfile>m_k00058.htm</linkfile><linkid>m_I1-0142</linkid></idx>
+<idx><i1>Файлы в формате WMA</i1><linkfile>m_k00058.htm</linkfile><linkid>m_I1-0143</linkid></idx>
+<idx><i1>Дисководы</i1><i2>Устройство смены CD/DVD</i2><linkfile>m_k00058.htm</linkfile><linkid>m_I2-0144</linkid></idx>
+<idx><i1>DVD</i1><i2>Загрузка (устройство смены CD/DVD)</i2><linkfile>m_m00061.htm</linkfile><linkid>m_I2-0145</linkid></idx>
+<idx><i1>CD/DVD</i1><i2>Загрузка (устройство смены CD/DVD)</i2><linkfile>m_m00061.htm</linkfile><linkid>m_I2-0146</linkid></idx>
+<idx><i1>DVD</i1><i2>Извлечение (устройство смены CD/DVD)</i2><linkfile>m_m00062.htm</linkfile><linkid>m_I2-0147</linkid></idx>
+<idx><i1>CD/DVD</i1><i2>Извлечение (устройство смены CD/DVD)</i2><linkfile>m_m00062.htm</linkfile><linkid>m_I2-0148</linkid></idx>
+<idx><i1>Дисководы</i1><i2>Дисковод считывания плат памяти</i2><linkfile>m_k00063.htm</linkfile><linkid>m_I2-0149</linkid></idx>
+<idx><i1>Плата памяти</i1><i2>Установка/извлечение</i2><linkfile>m_m00065.htm</linkfile><linkid>m_I2-0150</linkid></idx>
+<idx><i1>Аудиоплеер с «Bluetooth»</i1><linkfile>m_m00067.htm</linkfile><linkid>m_I1-0151</linkid></idx>
+<idx><i1>Дисководы</i1><i2>Аудиоплеер с «Bluetooth»</i2><linkfile>m_m00067.htm</linkfile><linkid>m_I2-0152</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Подключение аудиоплеера</i2><linkfile>m_m00068.htm</linkfile><linkid>m_I2-0153</linkid></idx>
+<idx><i1>Аудиоплеер с «Bluetooth»</i1><i2>Подключение</i2><linkfile>m_m00068.htm</linkfile><linkid>m_I2-0154</linkid></idx>
+<idx><i1>Audi music interface</i1><i2>Ввод в эксплуатацию</i2><linkfile>m_k00069.htm</linkfile><linkid>m_I2-0155</linkid></idx>
+<idx><i1>Дисководы</i1><i2>Audi music interface</i2><linkfile>m_k00069.htm</linkfile><linkid>m_I2-0156</linkid></idx>
+<idx><i1>Кабель-адаптер для «Audi music interface»</i1><linkfile>m_m00071.htm</linkfile><linkid>m_I1-0157</linkid></idx>
+<idx><i1>Audi music interface</i1><i2>Подключение кабеля-адаптера</i2><linkfile>m_m00071.htm</linkfile><linkid>m_I2-0158</linkid></idx>
+<idx><i1>Audi music interface</i1><i2>Подключение USB-кабеля-адаптера</i2><linkfile>m_m00071.htm</linkfile><linkid>m_I2-0159</linkid></idx>
+<idx><i1>Audi music interface</i1><i2>Подключение мини USB-кабеля-адаптера</i2><linkfile>m_m00071.htm</linkfile><linkid>m_I2-0160</linkid></idx>
+<idx><i1>Audi music interface</i1><i2>Подключение А/В-кабеля-адаптера</i2><linkfile>m_m00071.htm</linkfile><linkid>m_I2-0161</linkid></idx>
+<idx><i1>Коммутаторный штекер</i1><linkfile>m_m00071.htm</linkfile><linkid>m_I1-0162</linkid></idx>
+<idx><i1>Внешний аудиоисточник</i1><linkfile>m_m00071.htm</linkfile><linkid>m_I1-0163</linkid></idx>
+<idx><i1>MP3-плеер</i1><linkfile>m_m00071.htm</linkfile><linkid>m_I1-0164</linkid></idx>
+<idx><i1>Audi music interface</i1><i2>Отсоединение кабеля-адаптера</i2><linkfile>m_m00072.htm</linkfile><linkid>m_I2-0165</linkid></idx>
+<idx><i1>iPod</i1><i2>Подключение</i2><linkfile>m_m00073.htm</linkfile><linkid>m_I2-0166</linkid></idx>
+<idx><i1>Audi music interface</i1><i2>Подключение кабеля-адаптера для iPod</i2><linkfile>m_m00073.htm</linkfile><linkid>m_I2-0167</linkid></idx>
+<idx><i1>А/В-кабель-адаптер</i1><linkfile>m_m00074.htm</linkfile><linkid>m_I1-0168</linkid></idx>
+<idx><i1>Внешние воспроизводящие устройства</i1><linkfile>m_m00074.htm</linkfile><linkid>m_I1-0169</linkid></idx>
+<idx><i1>Внешний видеоисточник</i1><linkfile>m_m00074.htm</linkfile><linkid>m_I1-0170</linkid></idx>
+<idx><i1>Коммутаторный штекер</i1><linkfile>m_m00074.htm</linkfile><linkid>m_I1-0171</linkid></idx>
+<idx><i1>Внешний аудиоисточник</i1><linkfile>m_m00074.htm</linkfile><linkid>m_I1-0172</linkid></idx>
+<idx><i1>MP3-плеер</i1><linkfile>m_m00074.htm</linkfile><linkid>m_I1-0173</linkid></idx>
+<idx><i1>Дисководы</i1><i2>Вход Aux-in</i2><linkfile>m_k00075.htm</linkfile><linkid>m_I2-0174</linkid></idx>
+<idx><i1>Вход Aux-in</i1><i2>Ввод в эксплуатацию</i2><linkfile>m_k00075.htm</linkfile><linkid>m_I2-0175</linkid></idx>
+<idx><i1>Вход «Aux-in»</i1><i2>Подключение/отключение воспроизводящего устройства</i2><linkfile>m_m00077.htm</linkfile><linkid>m_I2-0176</linkid></idx>
+<idx><i1>Пользование телефоном</i1><i2>Терминал MMI</i2><linkfile>m_m00080.htm</linkfile><linkid>m_I2-0177</linkid></idx>
+<idx><i1>Безопасность</i1><i2>При пользовании телефоном</i2><linkfile>m_m00080.htm</linkfile><linkid>m_I2-0178</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Автомобильный телефон</i2><linkfile>m_k00081.htm</linkfile><linkid>m_I2-0179</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><linkfile>m_m00082.htm</linkfile><linkid>m_I1-0180</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Соединение «Bluetooth»</i2><linkfile>m_m00082.htm</linkfile><linkid>m_I2-0181</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Устройство считывания SIM-карт</i2><linkfile>m_m00082.htm</linkfile><linkid>m_I2-0182</linkid></idx>
+<idx><i1>Ввод в эксплуатацию</i1><i2>Автомобильный телефон</i2><linkfile>m_m00083.htm</linkfile><linkid>m_I2-0183</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Ввод в эксплуатацию</i2><linkfile>m_m00083.htm</linkfile><linkid>m_I2-0184</linkid></idx>
+<idx><i1>Мобильный телефон</i1><i2>Ввод в эксплуатацию</i2><linkfile>m_m00083.htm</linkfile><linkid>m_I2-0185</linkid></idx>
+<idx><i1>Включение/выключение</i1><i2>Автомобильный телефон</i2><linkfile>m_m00084.htm</linkfile><linkid>m_I2-0186</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Включение</i2><linkfile>m_m00084.htm</linkfile><linkid>m_I2-0187</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Выключение</i2><linkfile>m_m00084.htm</linkfile><linkid>m_I2-0188</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Поиск устройств с «Bluetooth»</i2><linkfile>m_m00085.htm</linkfile><linkid>m_I2-0189</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Поиск мобильного телефона</i2><linkfile>m_m00085.htm</linkfile><linkid>m_I2-0190</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Подсоединение мобильного телефона с профилем «SIM Access»</i2><linkfile>m_m00086.htm</linkfile><linkid>m_I2-0191</linkid></idx>
+<idx><i1>Мобильный телефон</i1><i2>Подсоединение с профилем «SIM Access»</i2><linkfile>m_m00086.htm</linkfile><linkid>m_I2-0192</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Подсоединение мобильного телефона с профилем «Handsfree»</i2><linkfile>m_m00087.htm</linkfile><linkid>m_I2-0193</linkid></idx>
+<idx><i1>Мобильный телефон</i1><i2>Подсоединение с профилем «Handsfree» (автомобильный телефон)</i2><linkfile>m_m00087.htm</linkfile><linkid>m_I2-0194</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Устройство считывания SIM-карт</i2><linkfile>m_m00088.htm</linkfile><linkid>m_I2-0195</linkid></idx>
+<idx><i1>Устройство считывания SIM-карт</i1><linkfile>m_m00088.htm</linkfile><linkid>m_I1-0196</linkid></idx>
+<idx><i1>SIM-карта</i1><i2>Установка/извлечение (устройство считывания SIM-карт)</i2><linkfile>m_m00088.htm</linkfile><linkid>m_I2-0197</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Соединение «Bluetooth»</i2><linkfile>m_m00089.htm</linkfile><linkid>m_I2-0198</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_k00090.htm</linkfile><linkid>m_I2-0199</linkid></idx>
+<idx><i1>Устройство подготовки мобильного телефона</i1><linkfile>m_m00091.htm</linkfile><linkid>m_I1-0200</linkid></idx>
+<idx><i1>Устройство подготовки мобильного телефона</i1><i2>Соединение «Bluetooth»</i2><linkfile>m_m00091.htm</linkfile><linkid>m_I2-0201</linkid></idx>
+<idx><i1>Ввод в эксплуатацию</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00092.htm</linkfile><linkid>m_I2-0202</linkid></idx>
+<idx><i1>Устройство подготовки мобильного телефона</i1><i2>Ввод в эксплуатацию</i2><linkfile>m_m00092.htm</linkfile><linkid>m_I2-0203</linkid></idx>
+<idx><i1>Устройство подготовки мобильного телефона</i1><i2>Поиск устройств с «Bluetooth»</i2><linkfile>m_m00093.htm</linkfile><linkid>m_I2-0204</linkid></idx>
+<idx><i1>Устройство подготовки мобильного телефона</i1><i2>Подсоединение мобильного телефона</i2><linkfile>m_m00094.htm</linkfile><linkid>m_I2-0205</linkid></idx>
+<idx><i1>Мобильный телефон</i1><i2>Подсоединение с профилем «Handsfree» (устройство подготовки мобильного телефона)</i2><linkfile>m_m00094.htm</linkfile><linkid>m_I2-0206</linkid></idx>
+<idx><i1>Устройство подготовки мобильного телефона</i1><i2>Соединение «Bluetooth»</i2><linkfile>m_m00095.htm</linkfile><linkid>m_I2-0207</linkid></idx>
+<idx><i1>Адаптер для мобильного телефона</i1><i2>Установка/снятие</i2><linkfile>m_m00096.htm</linkfile><linkid>m_I2-0208</linkid></idx>
+<idx><i1>Адаптер для мобильного телефона</i1><i2>Установка/извлечение мобильного телефона</i2><linkfile>m_m00097.htm</linkfile><linkid>m_I2-0209</linkid></idx>
+<idx><i1>Мобильный телефон</i1><i2>Установка в устройство подготовки мобильного телефона</i2><linkfile>m_m00097.htm</linkfile><linkid>m_I2-0210</linkid></idx>
+<idx><i1>Пользование телефоном</i1><i2>Терминал MMI</i2><linkfile>m_k00098.htm</linkfile><linkid>m_I2-0211</linkid></idx>
+<idx><i1>Условия</i1><i2>Для сеансов связи (автомобильный телефон/устройство подготовки мобильного телефона)</i2><linkfile>m_m00100.htm</linkfile><linkid>m_I2-0212</linkid></idx>
+<idx><i1>Включение режима пользования телефоном</i1><i2>Терминал MMI</i2><linkfile>m_m00101.htm</linkfile><linkid>m_I2-0213</linkid></idx>
+<idx><i1>Основные функции</i1><i2>Телефон</i2><linkfile>m_m00102.htm</linkfile><linkid>m_I2-0214</linkid></idx>
+<idx><i1>PIN-код (SIM)</i1><i2>Терминал MMI</i2><linkfile>m_m00103.htm</linkfile><linkid>m_I2-0215</linkid></idx>
+<idx><i1>PUK-код</i1><i2>Терминал MMI</i2><linkfile>m_m00103.htm</linkfile><linkid>m_I2-0216</linkid></idx>
+<idx><i1>Номер экстренной помощи</i1><i2>Терминал MMI</i2><linkfile>m_m00104.htm</linkfile><linkid>m_I2-0217</linkid></idx>
+<idx><i1>SOS</i1><i2>Терминал MMI</i2><linkfile>m_m00104.htm</linkfile><linkid>m_I2-0218</linkid></idx>
+<idx><i1>Набор телефонного номера</i1><i2>Терминал MMI</i2><linkfile>m_m00106.htm</linkfile><linkid>m_I2-0219</linkid></idx>
+<idx><i1>Сигналы DTMF</i1><i2>Терминал MMI</i2><linkfile>m_m00106.htm</linkfile><linkid>m_I2-0220</linkid></idx>
+<idx><i1>Вызов абонента</i1><i2>Терминал MMI</i2><linkfile>m_m00107.htm</linkfile><linkid>m_I2-0221</linkid></idx>
+<idx><i1>Набор телефонного номера</i1><i2>Автомобильный телефон/устройство подготовки мобильного телефона</i2><linkfile>m_m00107.htm</linkfile><linkid>m_I2-0222</linkid></idx>
+<idx><i1>Списки вызовов</i1><i2>Терминал MMI</i2><linkfile>m_m00107.htm</linkfile><linkid>m_I2-0223</linkid></idx>
+<idx><i1>Набранные номера</i1><i2>Автомобильный телефон/устройство подготовки мобильного телефона</i2><linkfile>m_m00107.htm</linkfile><linkid>m_I2-0224</linkid></idx>
+<idx><i1>Принятые вызовы</i1><i2>Терминал MMI</i2><linkfile>m_m00107.htm</linkfile><linkid>m_I2-0225</linkid></idx>
+<idx><i1>Пропущенные вызовы</i1><i2>Терминал MMI</i2><linkfile>m_m00107.htm</linkfile><linkid>m_I2-0226</linkid></idx>
+<idx><i1>Последние вызовы</i1><i2>Автомобильный телефон/устройство подготовки мобильного телефона</i2><linkfile>m_m00107.htm</linkfile><linkid>m_I2-0227</linkid></idx>
+<idx><i1>Набор сохраненного телефонного номера</i1><linkfile>m_m00107.htm</linkfile><linkid>m_I1-0228</linkid></idx>
+<idx><i1>Прием/отклонение вызова</i1><i2>Терминал MMI</i2><linkfile>m_m00108.htm</linkfile><linkid>m_I2-0229</linkid></idx>
+<idx><i1>Завершение сеанса связи</i1><i2>Терминал MMI</i2><linkfile>m_m00109.htm</linkfile><linkid>m_I2-0230</linkid></idx>
+<idx><i1>Телефонный номер</i1><i2>Сохранение из списков вызовов</i2><linkfile>m_m00110.htm</linkfile><linkid>m_I2-0231</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Включение/выключение</i2><linkfile>m_m00111.htm</linkfile><linkid>m_I2-0232</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Виден для других</i2><linkfile>m_m00111.htm</linkfile><linkid>m_I2-0233</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Поиск устройств с «Bluetooth»</i2><linkfile>m_m00111.htm</linkfile><linkid>m_I2-0234</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Подключенные устройства</i2><linkfile>m_m00111.htm</linkfile><linkid>m_I2-0235</linkid></idx>
+<idx><i1>Подключенные устройства</i1><linkfile>m_m00111.htm</linkfile><linkid>m_I1-0236</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Имя «Bluetooth»</i2><linkfile>m_m00111.htm</linkfile><linkid>m_I2-0237</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Удаление внешних устройств</i2><linkfile>m_m00111.htm</linkfile><linkid>m_I2-0238</linkid></idx>
+<idx><i1>Удаление внешних устройств</i1><linkfile>m_m00111.htm</linkfile><linkid>m_I1-0239</linkid></idx>
+<idx><i1>Набор номера экстренной помощи</i1><i2>Автоматический набор номера экстренной помощи</i2><linkfile>m_m00113.htm</linkfile><linkid>m_I2-0240</linkid></idx>
+<idx><i1>Опции</i1><i2>Терминал MMI</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0241</linkid></idx>
+<idx><i1>Перевод сеанса связи в режим ожидания/продолжение сеанса связи</i1><i2>Автомобильный телефон</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0242</linkid></idx>
+<idx><i1>Вызов другого абонента</i1><i2>Автомобильный телефон</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0243</linkid></idx>
+<idx><i1>Включение/выключение микрофона</i1><i2>Автомобильный телефон</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0244</linkid></idx>
+<idx><i1>Включение конференц-связи</i1><i2>Автомобильный телефон</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0245</linkid></idx>
+<idx><i1>Попеременный сеанс связи с двумя абонентами</i1><i2>Автомобильный телефон</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0246</linkid></idx>
+<idx><i1>Переключение аудиосигнала</i1><i2>Автомобильный телефон</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0247</linkid></idx>
+<idx><i1>Переключение сеанса связи</i1><i2>Терминал MMI</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0248</linkid></idx>
+<idx><i1>Прием другого вызова</i1><i2>Автомобильный телефон</i2><linkfile>m_m00114.htm</linkfile><linkid>m_I2-0249</linkid></idx>
+<idx><i1>Режим телефона</i1><linkfile>m_m00115.htm</linkfile><linkid>m_I1-0250</linkid></idx>
+<idx><i1>Телефонные опции</i1><i2>Автомобильный телефон</i2><linkfile>m_m00116.htm</linkfile><linkid>m_I2-0251</linkid></idx>
+<idx><i1>Сигнал нового вызова</i1><i2>Автомобильный телефон</i2><linkfile>m_m00116.htm</linkfile><linkid>m_I2-0252</linkid></idx>
+<idx><i1>Передача своего номера</i1><i2>Автомобильный телефон</i2><linkfile>m_m00116.htm</linkfile><linkid>m_I2-0253</linkid></idx>
+<idx><i1>Повторный набор</i1><i2>Автомобильный телефон</i2><linkfile>m_m00116.htm</linkfile><linkid>m_I2-0254</linkid></idx>
+<idx><i1>Прием вызова</i1><i2>Автомобильный телефон</i2><linkfile>m_m00116.htm</linkfile><linkid>m_I2-0255</linkid></idx>
+<idx><i1>Переадресация вызова</i1><i2>Автомобильный телефон</i2><linkfile>m_m00116.htm</linkfile><linkid>m_I2-0256</linkid></idx>
+<idx><i1>Настройки телефона</i1><i2>Автомобильный телефон</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0257</linkid></idx>
+<idx><i1>Настройка сигнала вызова</i1><linkfile>m_m00117.htm</linkfile><linkid>m_I1-0258</linkid></idx>
+<idx><i1>Громкость сигнала вызова</i1><i2>Автомобильный телефон</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0259</linkid></idx>
+<idx><i1>Громкость звука при сеансе связи</i1><i2>Автомобильный телефон</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0260</linkid></idx>
+<idx><i1>Чувствительность микрофона</i1><i2>Автомобильный телефон</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0261</linkid></idx>
+<idx><i1>Серийный номер (IMEI)</i1><i2>Автомобильный телефон</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0262</linkid></idx>
+<idx><i1>Настройки сети</i1><i2>Автомобильный телефон</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0263</linkid></idx>
+<idx><i1>PIN-код (SIM-карта)</i1><i2>Настройки (автомобильный телефон)</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0264</linkid></idx>
+<idx><i1>Номер почтового ящика</i1><i2>Автомобильный телефон</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0265</linkid></idx>
+<idx><i1>Отображение номера</i1><linkfile>m_m00117.htm</linkfile><linkid>m_I1-0266</linkid></idx>
+<idx><i1>Отображение номера абонента</i1><linkfile>m_m00117.htm</linkfile><linkid>m_I1-0267</linkid></idx>
+<idx><i1>Списки вызовов</i1><i2>Удаление</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0268</linkid></idx>
+<idx><i1>Настройки SMS</i1><linkfile>m_m00117.htm</linkfile><linkid>m_I1-0269</linkid></idx>
+<idx><i1>Автомобильный телефон</i1><i2>Настройки SMS</i2><linkfile>m_m00117.htm</linkfile><linkid>m_I2-0270</linkid></idx>
+<idx><i1>Каналы передачи данных</i1><i2>Настройки</i2><linkfile>m_m00118.htm</linkfile><linkid>m_I2-0271</linkid></idx>
+<idx><i1>Сетевое соединение (WLAN)</i1><i2>Настройки</i2><linkfile>m_m00118.htm</linkfile><linkid>m_I2-0272</linkid></idx>
+<synonym><siehe><begriff>Короткие сообщения</begriff><i1>SMS</i1><linkfile>m_m00119.htm</linkfile><linkid>m_I1-0273</linkid></siehe><siehe><begriff>Сообщения</begriff><i1>SMS</i1><linkfile>m_m00119.htm</linkfile><linkid>m_I1-0274</linkid></siehe></synonym>
+<idx><i1>SMS</i1><i2>Автомобильный телефон</i2><linkfile>m_m00119.htm</linkfile><linkid>m_I2-0275</linkid></idx>
+<idx><i1>Опции</i1><i2>SMS</i2><linkfile>m_m00119.htm</linkfile><linkid>m_I2-0276</linkid></idx>
+<idx><i1>Автоматический набор номер экстренной помощи</i1><linkfile>m_m00121.htm</linkfile><linkid>m_I1-0277</linkid></idx>
+<idx><i1>Опции</i1><i2>Терминал MMI</i2><linkfile>m_m00122.htm</linkfile><linkid>m_I2-0278</linkid></idx>
+<idx><i1>Включение/выключение микрофона</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00122.htm</linkfile><linkid>m_I2-0279</linkid></idx>
+<idx><i1>Переключение сеанса связи</i1><i2>Терминал MMI</i2><linkfile>m_m00122.htm</linkfile><linkid>m_I2-0280</linkid></idx>
+<idx><i1>Телефонные опции</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00123.htm</linkfile><linkid>m_I2-0281</linkid></idx>
+<idx><i1>Повторный набор</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00123.htm</linkfile><linkid>m_I2-0282</linkid></idx>
+<idx><i1>Прием вызова</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00123.htm</linkfile><linkid>m_I2-0283</linkid></idx>
+<idx><i1>Настройки телефона</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00124.htm</linkfile><linkid>m_I2-0284</linkid></idx>
+<idx><i1>Громкость сигнала вызова</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00124.htm</linkfile><linkid>m_I2-0285</linkid></idx>
+<idx><i1>Громкость звука при сеансе связи</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00124.htm</linkfile><linkid>m_I2-0286</linkid></idx>
+<idx><i1>Чувствительность микрофона</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00124.htm</linkfile><linkid>m_I2-0287</linkid></idx>
+<idx><i1>Номер почтового ящика</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00124.htm</linkfile><linkid>m_I2-0288</linkid></idx>
+<idx><i1>Списки вызовов</i1><i2>Пересортировка</i2><linkfile>m_m00124.htm</linkfile><linkid>m_I2-0289</linkid></idx>
+<idx><i1>Серийный номер (IMEI)</i1><i2>Устройство подготовки мобильного телефона</i2><linkfile>m_m00124.htm</linkfile><linkid>m_I2-0290</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Терминал MMI</i2><linkfile>m_h00125.htm</linkfile><linkid>m_I2-0291</linkid></idx>
+<idx><i1>Контакт в адресной книге</i1><i2>Создание нового контакта</i2><linkfile>m_m00128.htm</linkfile><linkid>m_I2-0292</linkid></idx>
+<idx><i1>Навигационная цель</i1><i2>Определение в адресной книге</i2><linkfile>m_m00129.htm</linkfile><linkid>m_I2-0293</linkid></idx>
+<idx><i1>Определение почтового адреса в адресной книге</i1><linkfile>m_m00130.htm</linkfile><linkid>m_I1-0294</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Импорт</i2><linkfile>m_k00131.htm</linkfile><linkid>m_I2-0295</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Загрузка телефонной книги</i2><linkfile>m_m00132.htm</linkfile><linkid>m_I2-0296</linkid></idx>
+<idx><i1>Телефонный номер</i1><i2>Импорт</i2><linkfile>m_m00133.htm</linkfile><linkid>m_I2-0297</linkid></idx>
+<synonym><siehe><begriff>Адресная карта</begriff><i1>Контакт адресной книги</i1><linkfile>m_m00134.htm</linkfile><linkid>m_I1-0298</linkid></siehe></synonym>
+<idx><i1>Контакт адресной книги</i1><i2>Импорт</i2><linkfile>m_m00134.htm</linkfile><linkid>m_I2-0299</linkid></idx>
+<idx><i1>myAudi</i1><i2>Импорт контактов</i2><linkfile>m_m00134.htm</linkfile><linkid>m_I2-0300</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Экспорт</i2><linkfile>m_m00135.htm</linkfile><linkid>m_I2-0301</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Отправка посредством SMS</i2><linkfile>m_m00136.htm</linkfile><linkid>m_I2-0302</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Прием в виде SMS</i2><linkfile>m_m00137.htm</linkfile><linkid>m_I2-0303</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Поиск (терминал MMI)</i2><linkfile>m_m00139.htm</linkfile><linkid>m_I2-0304</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Вызов (терминал MMI)</i2><linkfile>m_m00140.htm</linkfile><linkid>m_I2-0305</linkid></idx>
+<idx><i1>Навигация</i1><i2>Терминал MMI</i2><linkfile>m_m00141.htm</linkfile><linkid>m_I2-0306</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Навигация (терминал MMI)</i2><linkfile>m_m00141.htm</linkfile><linkid>m_I2-0307</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Редактирование</i2><linkfile>m_k00142.htm</linkfile><linkid>m_I2-0308</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Изменение</i2><linkfile>m_m00143.htm</linkfile><linkid>m_I2-0309</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Редактирование</i2><linkfile>m_m00143.htm</linkfile><linkid>m_I2-0310</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Удаление</i2><linkfile>m_m00144.htm</linkfile><linkid>m_I2-0311</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Удаление контактов</i2><linkfile>m_m00145.htm</linkfile><linkid>m_I2-0312</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Воспроизведение речевого адреса</i2><linkfile>m_m00146.htm</linkfile><linkid>m_I2-0313</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Удаление речевого адреса</i2><linkfile>m_m00147.htm</linkfile><linkid>m_I2-0314</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Емкость памяти</i2><linkfile>m_m00149.htm</linkfile><linkid>m_I2-0315</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Порядок сортировки</i2><linkfile>m_m00150.htm</linkfile><linkid>m_I2-0316</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Отображение общих контактов</i2><linkfile>m_m00151.htm</linkfile><linkid>m_I2-0317</linkid></idx>
+<idx><i1>Онлайн-услуги</i1><linkfile>m_m00153.htm</linkfile><linkid>m_I1-0318</linkid></idx>
+<idx><i1>Онлайн-услуги</i1><i2>Условие</i2><linkfile>m_m00154.htm</linkfile><linkid>m_I2-0319</linkid></idx>
+<idx><i1>Условия</i1><i2>Использование онлайн-услуг</i2><linkfile>m_m00154.htm</linkfile><linkid>m_I2-0320</linkid></idx>
+<idx><i1>Каналы передачи данных</i1><i2>Конфигурация</i2><linkfile>m_m00155.htm</linkfile><linkid>m_I2-0321</linkid></idx>
+<idx><i1>Онлайн-услуги</i1><i2>Конфигурация</i2><linkfile>m_m00155.htm</linkfile><linkid>m_I2-0322</linkid></idx>
+<idx><i1>Сетевое соединение (WLAN)</i1><i2>Конфигурация</i2><linkfile>m_m00156.htm</linkfile><linkid>m_I2-0323</linkid></idx>
+<idx><i1>Онлайн-услуги</i1><i2>Конфигурация</i2><linkfile>m_m00156.htm</linkfile><linkid>m_I2-0324</linkid></idx>
+<idx><i1>Точка доступа WLAN</i1><linkfile>m_m00156.htm</linkfile><linkid>m_I1-0325</linkid></idx>
+<idx><i1>Использование браузера</i1><linkfile>m_m00157.htm</linkfile><linkid>m_I1-0326</linkid></idx>
+<idx><i1>Информационные онлайн-услуги</i1><i2>Использование в браузере</i2><linkfile>m_m00157.htm</linkfile><linkid>m_I2-0327</linkid></idx>
+<idx><i1>Google Earth</i1><i2>Использование в браузере</i2><linkfile>m_m00157.htm</linkfile><linkid>m_I2-0328</linkid></idx>
+<idx><i1>Телефонная трубка</i1><i2>Ввод в эксплуатацию</i2><linkfile>m_k00159.htm</linkfile><linkid>m_I2-0329</linkid></idx>
+<idx><i1>Телефонная трубка</i1><linkfile>m_k00159.htm</linkfile><linkid>m_I1-0330</linkid></idx>
+<idx><i1>Уход</i1><i2>Телефонная трубка</i2><linkfile>m_m00161.htm</linkfile><linkid>m_I2-0331</linkid></idx>
+<idx><i1>Указания</i1><i2>Уход за телефонной трубкой</i2><linkfile>m_m00161.htm</linkfile><linkid>m_I2-0332</linkid></idx>
+<idx><i1>PIN-код (SIM-карты)</i1><i2>Телефонная трубка</i2><linkfile>m_m00162.htm</linkfile><linkid>m_I2-0333</linkid></idx>
+<idx><i1>PUK-код</i1><i2>Телефонная трубка</i2><linkfile>m_m00162.htm</linkfile><linkid>m_I2-0334</linkid></idx>
+<idx><i1>Телефонная трубка</i1><i2>Установка/извлечение SIM-карты</i2><linkfile>m_m00162.htm</linkfile><linkid>m_I2-0335</linkid></idx>
+<idx><i1>SIM-карта</i1><i2>Установка/извлечение (телефонная трубка)</i2><linkfile>m_m00162.htm</linkfile><linkid>m_I2-0336</linkid></idx>
+<idx><i1>Телефонная трубка</i1><i2>Подсоединение</i2><linkfile>m_m00163.htm</linkfile><linkid>m_I2-0337</linkid></idx>
+<idx><i1>Аккумулятор телефонной трубки</i1><i2>Зарядка/замена</i2><linkfile>m_m00164.htm</linkfile><linkid>m_I2-0338</linkid></idx>
+<idx><i1>Телефонная трубка</i1><i2>Аккумулятор</i2><linkfile>m_m00164.htm</linkfile><linkid>m_I2-0339</linkid></idx>
+<idx><i1>Пользование телефоном</i1><i2>Телефонная трубка</i2><linkfile>m_k00165.htm</linkfile><linkid>m_I2-0340</linkid></idx>
+<idx><i1>Телефонная трубка</i1><i2>Включение/выключение</i2><linkfile>m_m00166.htm</linkfile><linkid>m_I2-0341</linkid></idx>
+<idx><i1>Включение/выключение</i1><i2>Телефонная трубка</i2><linkfile>m_m00166.htm</linkfile><linkid>m_I2-0342</linkid></idx>
+<idx><i1>Клавиши</i1><i2>Телефонная трубка</i2><linkfile>m_m00167.htm</linkfile><linkid>m_I2-0343</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>Телефонная трубка</i2><linkfile>m_m00167.htm</linkfile><linkid>m_I2-0344</linkid></idx>
+<idx><i1>Номер почтового ящика</i1><i2>Телефонная трубка</i2><linkfile>m_m00167.htm</linkfile><linkid>m_I2-0345</linkid></idx>
+<idx><i1>Блокировка клавиатуры в ручном режиме (телефонная трубка)</i1><linkfile>m_m00167.htm</linkfile><linkid>m_I1-0346</linkid></idx>
+<idx><i1>Аккумулятор телефонной трубки</i1><i2>Степень зарядки</i2><linkfile>m_m00168.htm</linkfile><linkid>m_I2-0347</linkid></idx>
+<idx><i1>Телефонная трубка</i1><i2>Информация на дисплее</i2><linkfile>m_m00168.htm</linkfile><linkid>m_I2-0348</linkid></idx>
+<idx><i1>Телефонная трубка</i1><i2>Пользование телефоном</i2><linkfile>m_k00169.htm</linkfile><linkid>m_I2-0349</linkid></idx>
+<idx><i1>Пользование телефоном</i1><i2>Телефонная трубка</i2><linkfile>m_k00169.htm</linkfile><linkid>m_I2-0350</linkid></idx>
+<idx><i1>Условия</i1><i2>Ведение сеансов связи (телефонная трубка)</i2><linkfile>m_m00170.htm</linkfile><linkid>m_I2-0351</linkid></idx>
+<idx><i1>Набор телефонного номера</i1><i2>Телефонная трубка</i2><linkfile>m_m00171.htm</linkfile><linkid>m_I2-0352</linkid></idx>
+<idx><i1>Вызов абонента</i1><i2>Телефонная трубка</i2><linkfile>m_m00171.htm</linkfile><linkid>m_I2-0353</linkid></idx>
+<idx><i1>Повторный набор</i1><i2>Телефонная трубка</i2><linkfile>m_m00171.htm</linkfile><linkid>m_I2-0354</linkid></idx>
+<idx><i1>Прием/отклонение вызова</i1><i2>Телефонная трубка</i2><linkfile>m_m00172.htm</linkfile><linkid>m_I2-0355</linkid></idx>
+<idx><i1>Завершение сеанса связи</i1><i2>Телефонная трубка</i2><linkfile>m_m00173.htm</linkfile><linkid>m_I2-0356</linkid></idx>
+<idx><i1>Вызов экстренной помощи</i1><i2>Телефонная трубка</i2><linkfile>m_m00174.htm</linkfile><linkid>m_I2-0357</linkid></idx>
+<idx><i1>SOS</i1><i2>Телефонная трубка</i2><linkfile>m_m00174.htm</linkfile><linkid>m_I2-0358</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Телефонная трубка</i2><linkfile>m_m00175.htm</linkfile><linkid>m_I2-0359</linkid></idx>
+<idx><i1>Сокращенный набор на телефонной трубке</i1><linkfile>m_m00176.htm</linkfile><linkid>m_I1-0360</linkid></idx>
+<idx><i1>Быстрый набор на телефонной трубке</i1><linkfile>m_m00176.htm</linkfile><linkid>m_I1-0361</linkid></idx>
+<idx><i1>SMS</i1><i2>Телефонная трубка</i2><linkfile>m_k00177.htm</linkfile><linkid>m_I2-0362</linkid></idx>
+<synonym><siehe><begriff>Короткие сообщения</begriff><i1>SMS</i1><linkfile>m_m00178.htm</linkfile><linkid>m_I1-0363</linkid></siehe><siehe><begriff>Сообщения</begriff><i1>SMS</i1><linkfile>m_m00178.htm</linkfile><linkid>m_I1-0364</linkid></siehe></synonym>
+<idx><i1>SMS</i1><i2>Новое SMS</i2><linkfile>m_m00178.htm</linkfile><linkid>m_I2-0365</linkid></idx>
+<idx><i1>Ввод текста на телефонной трубке</i1><linkfile>m_m00179.htm</linkfile><linkid>m_I1-0366</linkid></idx>
+<idx><i1>Распознавание слов (T9)</i1><linkfile>m_m00179.htm</linkfile><linkid>m_I1-0367</linkid></idx>
+<idx><i1>T9 – авто. распознавание слов</i1><linkfile>m_m00179.htm</linkfile><linkid>m_I1-0368</linkid></idx>
+<idx><i1>Сигнал поступления нового вызова</i1><i2>Телефонная трубка</i2><linkfile>m_m00181.htm</linkfile><linkid>m_I2-0369</linkid></idx>
+<idx><i1>Передача своего номера</i1><i2>Телефонная трубка</i2><linkfile>m_m00181.htm</linkfile><linkid>m_I2-0370</linkid></idx>
+<idx><i1>Прием вызова при извлечении трубки</i1><linkfile>m_m00181.htm</linkfile><linkid>m_I1-0371</linkid></idx>
+<idx><i1>Переадресация вызова</i1><i2>Телефонная трубка</i2><linkfile>m_m00181.htm</linkfile><linkid>m_I2-0372</linkid></idx>
+<idx><i1>Заводские настройки</i1><i2>Телефонная трубка</i2><linkfile>m_m00182.htm</linkfile><linkid>m_I2-0373</linkid></idx>
+<idx><i1>Настройки телефона</i1><i2>Телефонная трубка</i2><linkfile>m_m00182.htm</linkfile><linkid>m_I2-0374</linkid></idx>
+<idx><i1>Номер почтового ящика</i1><i2>Телефонная трубка</i2><linkfile>m_m00182.htm</linkfile><linkid>m_I2-0375</linkid></idx>
+<idx><i1>Настройки сети</i1><i2>Телефонная трубка</i2><linkfile>m_m00182.htm</linkfile><linkid>m_I2-0376</linkid></idx>
+<idx><i1>PIN-код (SIM-карта)</i1><i2>Настройки (телефонная трубка)</i2><linkfile>m_m00182.htm</linkfile><linkid>m_I2-0377</linkid></idx>
+<idx><i1>Автоматическая блокировка клавиатуры</i1><linkfile>m_m00182.htm</linkfile><linkid>m_I1-0378</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Телефонная трубка</i2><linkfile>m_m00183.htm</linkfile><linkid>m_I2-0379</linkid></idx>
+<idx><i1>Bluetooth</i1><i2>Имя «Bluetooth»</i2><linkfile>m_m00183.htm</linkfile><linkid>m_I2-0380</linkid></idx>
+<idx><i1>Базовая станция автомобиля</i1><linkfile>m_m00183.htm</linkfile><linkid>m_I1-0381</linkid></idx>
+<idx><i1>Настройка языка</i1><i2>Телефонная трубка</i2><linkfile>m_m00185.htm</linkfile><linkid>m_I2-0382</linkid></idx>
+<idx><i1>Настройка языка меню</i1><i2>Телефонная трубка</i2><linkfile>m_m00185.htm</linkfile><linkid>m_I2-0383</linkid></idx>
+<idx><i1>Яркость</i1><i2>Дисплей телефонной трубки</i2><linkfile>m_m00186.htm</linkfile><linkid>m_I2-0384</linkid></idx>
+<idx><i1>Версия программного обеспечения</i1><i2>Телефонная трубка</i2><linkfile>m_m00187.htm</linkfile><linkid>m_I2-0385</linkid></idx>
+<idx><i1>Переключение сеанса связи</i1><i2>Телефонная трубка</i2><linkfile>m_m00188.htm</linkfile><linkid>m_I2-0386</linkid></idx>
+<idx><i1>Прием/отклонение вызова</i1><i2>Телефонная трубка</i2><linkfile>m_m00188.htm</linkfile><linkid>m_I2-0387</linkid></idx>
+<idx><i1>Прием другого вызова</i1><i2>Телефонная трубка</i2><linkfile>m_m00188.htm</linkfile><linkid>m_I2-0388</linkid></idx>
+<idx><i1>Вызов абонента</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0389</linkid></idx>
+<idx><i1>Завершение сеанса связи</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0390</linkid></idx>
+<idx><i1>Выключение/включение микрофона</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0391</linkid></idx>
+<idx><i1>Перевод сеанса связи в режим ожидания/продолжение сеанса связи</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0392</linkid></idx>
+<idx><i1>Попеременный сеанс связи с двумя абонентами</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0393</linkid></idx>
+<idx><i1>Включение конференц-связи</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0394</linkid></idx>
+<idx><i1>Посылка сигналов</i1><linkfile>m_m00189.htm</linkfile><linkid>m_I1-0395</linkid></idx>
+<idx><i1>Переключение аудиосигнала</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0396</linkid></idx>
+<idx><i1>Сигналы DTMF</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0397</linkid></idx>
+<idx><i1>Меню в телефонной трубке</i1><linkfile>m_m00189.htm</linkfile><linkid>m_I1-0398</linkid></idx>
+<idx><i1>Вызов другого абонента</i1><i2>Телефонная трубка</i2><linkfile>m_m00189.htm</linkfile><linkid>m_I2-0399</linkid></idx>
+<idx><i1>Последние вызовы</i1><i2>Телефонная трубка</i2><linkfile>m_m00190.htm</linkfile><linkid>m_I2-0400</linkid></idx>
+<idx><i1>Набранные номера</i1><i2>Телефонная трубка</i2><linkfile>m_m00190.htm</linkfile><linkid>m_I2-0401</linkid></idx>
+<idx><i1>Пропущенные вызовы</i1><i2>Телефонная трубка</i2><linkfile>m_m00190.htm</linkfile><linkid>m_I2-0402</linkid></idx>
+<idx><i1>Принятые вызовы</i1><i2>Телефонная трубка</i2><linkfile>m_m00190.htm</linkfile><linkid>m_I2-0403</linkid></idx>
+<idx><i1>Списки вызовов</i1><i2>Телефонная трубка</i2><linkfile>m_m00190.htm</linkfile><linkid>m_I2-0404</linkid></idx>
+<idx><i1>SMS</i1><i2>Входящие/исходящие</i2><linkfile>m_m00191.htm</linkfile><linkid>m_I2-0405</linkid></idx>
+<idx><i1>Настройки SMS</i1><linkfile>m_m00192.htm</linkfile><linkid>m_I1-0406</linkid></idx>
+<idx><i1>SMS</i1><i2>Удаление SMS</i2><linkfile>m_m00193.htm</linkfile><linkid>m_I2-0407</linkid></idx>
+<idx><i1>Навигация</i1><i2>Терминал MMI</i2><linkfile>m_h00195.htm</linkfile><linkid>m_I2-0408</linkid></idx>
+<idx><i1>Безопасность</i1><i2>При навигировании</i2><linkfile>m_m00196.htm</linkfile><linkid>m_I2-0409</linkid></idx>
+<idx><i1>Указание по маршруту</i1><linkfile>m_m00196.htm</linkfile><linkid>m_I1-0410</linkid></idx>
+<idx><i1>Включение режима навигации</i1><i2>Терминал MMI</i2><linkfile>m_m00197.htm</linkfile><linkid>m_I2-0411</linkid></idx>
+<idx><i1>Основные функции</i1><i2>Навигация</i2><linkfile>m_m00198.htm</linkfile><linkid>m_I2-0412</linkid></idx>
+<idx><i1>Ввод цели</i1><linkfile>m_k00199.htm</linkfile><linkid>m_I1-0413</linkid></idx>
+<synonym><siehe><begriff>Навигационная цель</begriff><i1>Ввод цели</i1><linkfile>m_m00200.htm</linkfile><linkid>m_I1-0414</linkid></siehe><siehe><begriff>Навигация</begriff><i1>Следование к цели</i1><linkfile>m_m00200.htm</linkfile><linkid>m_I1-0415</linkid></siehe></synonym>
+<idx><i1>Ввод цели</i1><i2>Указания по вводу цели</i2><linkfile>m_m00200.htm</linkfile><linkid>m_I2-0416</linkid></idx>
+<idx><i1>Следование к цели</i1><i2>Изменение</i2><linkfile>m_m00200.htm</linkfile><linkid>m_I2-0417</linkid></idx>
+<idx><i1>Ввод особой цели в городе</i1><linkfile>m_m00200.htm</linkfile><linkid>m_I1-0418</linkid></idx>
+<idx><i1>Координаты (навигация)</i1><linkfile>m_m00200.htm</linkfile><linkid>m_I1-0419</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Адрес</i2><linkfile>m_m00201.htm</linkfile><linkid>m_I2-0420</linkid></idx>
+<idx><i1>Следование к цели</i1><i2>Включение (терминал MMI)</i2><linkfile>m_m00201.htm</linkfile><linkid>m_I2-0421</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>По карте</i2><linkfile>m_m00202.htm</linkfile><linkid>m_I2-0422</linkid></idx>
+<idx><i1>Онлайн-услуги</i1><i2>Онлайн-цели (особые цели)</i2><linkfile>m_m00203.htm</linkfile><linkid>m_I2-0423</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Онлайн-цели (особые цели)</i2><linkfile>m_m00203.htm</linkfile><linkid>m_I2-0424</linkid></idx>
+<idx><i1>Загрузка цели</i1><linkfile>m_m00203.htm</linkfile><linkid>m_I1-0425</linkid></idx>
+<idx><i1>myAudi</i1><i2>Открытие навигационной цели</i2><linkfile>m_m00203.htm</linkfile><linkid>m_I2-0426</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Особая цель</i2><linkfile>m_m00204.htm</linkfile><linkid>m_I2-0427</linkid></idx>
+<idx><i1>Ввод особой цели</i1><i2>Терминал MMI</i2><linkfile>m_m00204.htm</linkfile><linkid>m_I2-0428</linkid></idx>
+<idx><i1>Район местонахождения (особая цель)</i1><linkfile>m_m00204.htm</linkfile><linkid>m_I1-0429</linkid></idx>
+<idx><i1>Поиск имени в актуальной стране (особая цель)</i1><linkfile>m_m00204.htm</linkfile><linkid>m_I1-0430</linkid></idx>
+<idx><i1>Район вокруг цели (особая цель)</i1><linkfile>m_m00204.htm</linkfile><linkid>m_I1-0431</linkid></idx>
+<idx><i1>В новом городе (особая цель)</i1><linkfile>m_m00204.htm</linkfile><linkid>m_I1-0432</linkid></idx>
+<idx><i1>Межрегиональная цель (особая цель)</i1><linkfile>m_m00204.htm</linkfile><linkid>m_I1-0433</linkid></idx>
+<idx><i1>Важные особые цели</i1><linkfile>m_m00204.htm</linkfile><linkid>m_I1-0434</linkid></idx>
+<idx><i1>Вдоль маршрута (особая цель)</i1><linkfile>m_m00204.htm</linkfile><linkid>m_I1-0435</linkid></idx>
+<idx><i1>Фаворит</i1><linkfile>m_m00205.htm</linkfile><linkid>m_I1-0436</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Фавориты (терминал MMI)</i2><linkfile>m_m00205.htm</linkfile><linkid>m_I2-0437</linkid></idx>
+<idx><i1>Домашний адрес</i1><linkfile>m_m00205.htm</linkfile><linkid>m_I1-0438</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Загрузка последней цели (терминал MMI)</i2><linkfile>m_m00206.htm</linkfile><linkid>m_I2-0439</linkid></idx>
+<idx><i1>Последние цели</i1><i2>Загрузка (терминал MMI)</i2><linkfile>m_m00206.htm</linkfile><linkid>m_I2-0440</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Загрузка из адресной книги</i2><linkfile>m_m00207.htm</linkfile><linkid>m_I2-0441</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Навигация (орган управления MMI)</i2><linkfile>m_m00207.htm</linkfile><linkid>m_I2-0442</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Топографические координаты</i2><linkfile>m_m00208.htm</linkfile><linkid>m_I2-0443</linkid></idx>
+<synonym><siehe><begriff>План маршрута</begriff><i1>План поездки</i1><linkfile>m_m00209.htm</linkfile><linkid>m_I1-0444</linkid></siehe></synonym>
+<idx><i1>План поездки</i1><i2>Ввод промежуточной цели</i2><linkfile>m_m00209.htm</linkfile><linkid>m_I2-0445</linkid></idx>
+<idx><i1>План поездки</i1><i2>Ввод</i2><linkfile>m_m00209.htm</linkfile><linkid>m_I2-0446</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>С промежуточной целью</i2><linkfile>m_m00209.htm</linkfile><linkid>m_I2-0447</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>План поездки</i2><linkfile>m_m00209.htm</linkfile><linkid>m_I2-0448</linkid></idx>
+<idx><i1>Следование к цели</i1><i2>Прерывание (терминал MMI)</i2><linkfile>m_m00210.htm</linkfile><linkid>m_I2-0449</linkid></idx>
+<idx><i1>Онлайн-услуги</i1><i2>Google Earth</i2><linkfile>m_m00212.htm</linkfile><linkid>m_I2-0450</linkid></idx>
+<idx><i1>Дисплей MMI</i1><i2>Изображение процесса навигации</i2><linkfile>m_m00212.htm</linkfile><linkid>m_I2-0451</linkid></idx>
+<idx><i1>Изображение навигации</i1><i2>Дисплей MMI</i2><linkfile>m_m00212.htm</linkfile><linkid>m_I2-0452</linkid></idx>
+<idx><i1>Следование к цели</i1><i2>В дисплее MMI</i2><linkfile>m_m00212.htm</linkfile><linkid>m_I2-0453</linkid></idx>
+<idx><i1>Изображение карты</i1><linkfile>m_m00212.htm</linkfile><linkid>m_I1-0454</linkid></idx>
+<idx><i1>Google Earth</i1><i2>Вызов</i2><linkfile>m_m00212.htm</linkfile><linkid>m_I2-0455</linkid></idx>
+<idx><i1>Изображение процесса навигации</i1><i2>Информационная система для водителя</i2><linkfile>m_m00213.htm</linkfile><linkid>m_I2-0456</linkid></idx>
+<idx><i1>Следование к цели</i1><i2>в информационной системе для водителя</i2><linkfile>m_m00213.htm</linkfile><linkid>m_I2-0457</linkid></idx>
+<idx><i1>Компас</i1><linkfile>m_m00213.htm</linkfile><linkid>m_I1-0458</linkid></idx>
+<idx><i1>Изображение процесса навигации</i1><i2>Индикация на ветровом стекле</i2><linkfile>m_m00214.htm</linkfile><linkid>m_I2-0459</linkid></idx>
+<idx><i1>Следование к цели</i1><i2>Индикация на ветровом стекле</i2><linkfile>m_m00214.htm</linkfile><linkid>m_I2-0460</linkid></idx>
+<idx><i1>Индикация на ветровом стекле</i1><linkfile>m_m00214.htm</linkfile><linkid>m_I1-0461</linkid></idx>
+<idx><i1>Фаворит</i1><i2>Сохранение</i2><linkfile>m_m00216.htm</linkfile><linkid>m_I2-0462</linkid></idx>
+<idx><i1>Домашний адрес</i1><i2>Сохранение</i2><linkfile>m_m00216.htm</linkfile><linkid>m_I2-0463</linkid></idx>
+<idx><i1>Навигационная цель</i1><i2>Сохранение</i2><linkfile>m_m00217.htm</linkfile><linkid>m_I2-0464</linkid></idx>
+<idx><i1>Сохранение цели (в адресной книге)</i1><linkfile>m_m00217.htm</linkfile><linkid>m_I1-0465</linkid></idx>
+<idx><i1>Отображение в качестве фаворита</i1><linkfile>m_m00217.htm</linkfile><linkid>m_I1-0466</linkid></idx>
+<synonym><siehe><begriff>План маршрута</begriff><i1>План поездки</i1><linkfile>m_m00219.htm</linkfile><linkid>m_I1-0467</linkid></siehe></synonym>
+<idx><i1>Навигационная цель</i1><i2>Сохранение</i2><linkfile>m_m00219.htm</linkfile><linkid>m_I2-0468</linkid></idx>
+<idx><i1>План поездки</i1><i2>Сохранение</i2><linkfile>m_m00219.htm</linkfile><linkid>m_I2-0469</linkid></idx>
+<synonym><siehe><begriff>План маршрута</begriff><i1>План поездки</i1><linkfile>m_m00220.htm</linkfile><linkid>m_I1-0470</linkid></siehe></synonym>
+<idx><i1>Ввод цели</i1><i2>Загрузка плана поездки</i2><linkfile>m_m00220.htm</linkfile><linkid>m_I2-0471</linkid></idx>
+<idx><i1>План поездки</i1><i2>Загрузка</i2><linkfile>m_m00220.htm</linkfile><linkid>m_I2-0472</linkid></idx>
+<idx><i1>План поездки</i1><i2>Удаление</i2><linkfile>m_m00221.htm</linkfile><linkid>m_I2-0473</linkid></idx>
+<idx><i1>Перечень отрезков маршрута</i1><linkfile>m_m00222.htm</linkfile><linkid>m_I1-0474</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Блокирование в маршруте</i2><linkfile>m_m00223.htm</linkfile><linkid>m_I2-0475</linkid></idx>
+<idx><i1>Блокирование в маршруте</i1><linkfile>m_m00223.htm</linkfile><linkid>m_I1-0476</linkid></idx>
+<idx><i1>Исключение маршрута</i1><linkfile>m_m00223.htm</linkfile><linkid>m_I1-0477</linkid></idx>
+<idx><i1>Фаворит</i1><i2>Удаление</i2><linkfile>m_m00225.htm</linkfile><linkid>m_I2-0478</linkid></idx>
+<idx><i1>Фаворит</i1><i2>Редактирование</i2><linkfile>m_m00225.htm</linkfile><linkid>m_I2-0479</linkid></idx>
+<idx><i1>Домашний адрес</i1><i2>Удаление</i2><linkfile>m_m00225.htm</linkfile><linkid>m_I2-0480</linkid></idx>
+<idx><i1>Домашний адрес</i1><i2>Редактирование</i2><linkfile>m_m00225.htm</linkfile><linkid>m_I2-0481</linkid></idx>
+<synonym><siehe><begriff>Критерии (навигация)</begriff><i1>Критерии маршрута</i1><linkfile>m_m00226.htm</linkfile><linkid>m_I1-0482</linkid></siehe></synonym>
+<idx><i1>Критерии маршрута</i1><i2>Терминал MMI</i2><linkfile>m_m00226.htm</linkfile><linkid>m_I2-0483</linkid></idx>
+<idx><i1>Критерии (навигация)</i1><linkfile>m_m00226.htm</linkfile><linkid>m_I1-0484</linkid></idx>
+<idx><i1>Динамический объезд пробок</i1><i2>Терминал MMI</i2><linkfile>m_m00226.htm</linkfile><linkid>m_I2-0485</linkid></idx>
+<idx><i1>Тип маршрута</i1><linkfile>m_m00226.htm</linkfile><linkid>m_I1-0486</linkid></idx>
+<idx><i1>Альтернативный маршрут</i1><linkfile>m_m00226.htm</linkfile><linkid>m_I1-0487</linkid></idx>
+<idx><i1>Блокирование по времени дня</i1><linkfile>m_m00226.htm</linkfile><linkid>m_I1-0488</linkid></idx>
+<idx><i1>Блокирование по времени года</i1><linkfile>m_m00226.htm</linkfile><linkid>m_I1-0489</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Альтернативный маршрут</i2><linkfile>m_m00226.htm</linkfile><linkid>m_I2-0490</linkid></idx>
+<idx><i1>Режимы карты</i1><i2>Терминал MMI</i2><linkfile>m_m00227.htm</linkfile><linkid>m_I2-0491</linkid></idx>
+<idx><i1>Ориентация на карте</i1><i2>Терминал MMI</i2><linkfile>m_m00228.htm</linkfile><linkid>m_I2-0492</linkid></idx>
+<idx><i1>Ориентация (карта)</i1><i2>Терминал MMI</i2><linkfile>m_m00228.htm</linkfile><linkid>m_I2-0493</linkid></idx>
+<idx><i1>Тип карты</i1><i2>Терминал MMI</i2><linkfile>m_m00229.htm</linkfile><linkid>m_I2-0494</linkid></idx>
+<idx><i1>Содержание карты</i1><i2>Терминал MMI</i2><linkfile>m_m00230.htm</linkfile><linkid>m_I2-0495</linkid></idx>
+<idx><i1>Дополнения к карте</i1><i2>Терминал MMI</i2><linkfile>m_m00231.htm</linkfile><linkid>m_I2-0496</linkid></idx>
+<idx><i1>Автоматическое масштабирование</i1><i2>Терминал MMI</i2><linkfile>m_m00232.htm</linkfile><linkid>m_I2-0497</linkid></idx>
+<idx><i1>Информация о заправочных станциях</i1><linkfile>m_m00233.htm</linkfile><linkid>m_I1-0498</linkid></idx>
+<idx><i1>Индикация скорости</i1><linkfile>m_m00234.htm</linkfile><linkid>m_I1-0499</linkid></idx>
+<idx><i1>Навигационные сообщения</i1><i2>Выкл./полностью/сокращенно</i2><linkfile>m_m00235.htm</linkfile><linkid>m_I2-0500</linkid></idx>
+<idx><i1>Навигационные сообщения</i1><i2>Вкл./выкл. при телефонной связи</i2><linkfile>m_m00236.htm</linkfile><linkid>m_I2-0501</linkid></idx>
+<idx><i1>Последние цели</i1><i2>Удаление</i2><linkfile>m_m00237.htm</linkfile><linkid>m_I2-0502</linkid></idx>
+<idx><i1>Ручной ввод местоположения</i1><linkfile>m_m00238.htm</linkfile><linkid>m_I1-0503</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Установка точки отправления</i2><linkfile>m_m00238.htm</linkfile><linkid>m_I2-0504</linkid></idx>
+<idx><i1>Режим презентации</i1><i2>Демонстрационный режим</i2><linkfile>m_m00238.htm</linkfile><linkid>m_I2-0505</linkid></idx>
+<idx><i1>Демонстрационный режим</i1><linkfile>m_m00238.htm</linkfile><linkid>m_I1-0506</linkid></idx>
+<idx><i1>Установка точки отправления</i1><linkfile>m_m00238.htm</linkfile><linkid>m_I1-0507</linkid></idx>
+<idx><i1>Режим презентации</i1><i2>Установка точки отправления</i2><linkfile>m_m00238.htm</linkfile><linkid>m_I2-0508</linkid></idx>
+<idx><i1>INFO (дорожная информация)</i1><linkfile>m_h00239.htm</linkfile><linkid>m_I1-0509</linkid></idx>
+<idx><i1>Дорожная информация</i1><linkfile>m_h00239.htm</linkfile><linkid>m_I1-0510</linkid></idx>
+<idx><i1>Воспроизведение дорожных сообщений</i1><i2>Терминал MMI</i2><linkfile>m_m00241.htm</linkfile><linkid>m_I2-0511</linkid></idx>
+<idx><i1>TP</i1><linkfile>m_m00241.htm</linkfile><linkid>m_I1-0512</linkid></idx>
+<idx><i1>Сообщения о дорожной ситуации</i1><linkfile>m_m00242.htm</linkfile><linkid>m_I1-0513</linkid></idx>
+<idx><i1>Просмотр следующего сообщения</i1><linkfile>m_m00242.htm</linkfile><linkid>m_I1-0514</linkid></idx>
+<idx><i1>Отображение сообщений о дорожной ситуации TMC/TMCpro на карте</i1><linkfile>m_m00242.htm</linkfile><linkid>m_I1-0515</linkid></idx>
+<idx><i1>Воспроизведение сообщений о дорожной ситуации TMC/TMCpro</i1><i2>Терминал MMI</i2><linkfile>m_m00242.htm</linkfile><linkid>m_I2-0516</linkid></idx>
+<idx><i1>Онлайн-услуги</i1><i2>Информационные онлайн-услуги</i2><linkfile>m_m00243.htm</linkfile><linkid>m_I2-0517</linkid></idx>
+<idx><i1>Открытие информации о погоде</i1><linkfile>m_m00243.htm</linkfile><linkid>m_I1-0518</linkid></idx>
+<idx><i1>Информационные онлайн-услуги</i1><i2>Доступ</i2><linkfile>m_m00243.htm</linkfile><linkid>m_I2-0519</linkid></idx>
+<idx><i1>Сообщения TMC</i1><linkfile>m_m00245.htm</linkfile><linkid>m_I1-0520</linkid></idx>
+<idx><i1>Дорожные сообщения</i1><i2>Включение/выключение для активного следования к цели</i2><linkfile>m_m00245.htm</linkfile><linkid>m_I2-0521</linkid></idx>
+<idx><i1>Дорожное радио</i1><i2>Включение/выключение</i2><linkfile>m_m00246.htm</linkfile><linkid>m_I2-0522</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>Дорожное радио</i2><linkfile>m_m00247.htm</linkfile><linkid>m_I2-0523</linkid></idx>
+<idx><i1>TP</i1><linkfile>m_m00248.htm</linkfile><linkid>m_I1-0524</linkid></idx>
+<idx><i1>Запись дорожных сообщений</i1><linkfile>m_m00248.htm</linkfile><linkid>m_I1-0525</linkid></idx>
+<idx><i1>FM (ультракороткие волны)</i1><linkfile>m_m00251.htm</linkfile><linkid>m_I1-0526</linkid></idx>
+<idx><i1>MW (средние волны)</i1><linkfile>m_m00251.htm</linkfile><linkid>m_I1-0527</linkid></idx>
+<idx><i1>LW (длинные волны)</i1><linkfile>m_m00251.htm</linkfile><linkid>m_I1-0528</linkid></idx>
+<idx><i1>DAB (цифровое радио)</i1><linkfile>m_m00251.htm</linkfile><linkid>m_I1-0529</linkid></idx>
+<idx><i1>Цифровое радио</i1><linkfile>m_m00251.htm</linkfile><linkid>m_I1-0530</linkid></idx>
+<idx><i1>Включение функции радио</i1><i2>Терминал MMI</i2><linkfile>m_m00252.htm</linkfile><linkid>m_I2-0531</linkid></idx>
+<idx><i1>Настройка диапазона приема</i1><i2>Терминал MMI</i2><linkfile>m_m00253.htm</linkfile><linkid>m_I2-0532</linkid></idx>
+<idx><i1>Диапазон</i1><linkfile>m_m00253.htm</linkfile><linkid>m_I1-0533</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Настройка (терминал MMI)</i2><linkfile>m_m00254.htm</linkfile><linkid>m_I2-0534</linkid></idx>
+<idx><i1>Память (радио)</i1><i2>Выбор радиостанции</i2><linkfile>m_m00254.htm</linkfile><linkid>m_I2-0535</linkid></idx>
+<idx><i1>Основные функции</i1><i2>Радио</i2><linkfile>m_m00255.htm</linkfile><linkid>m_I2-0536</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Следующая станция</i2><linkfile>m_m00256.htm</linkfile><linkid>m_I2-0537</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Поиск</i2><linkfile>m_m00256.htm</linkfile><linkid>m_I2-0538</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Настройка частоты</i2><linkfile>m_m00256.htm</linkfile><linkid>m_I2-0539</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Настройка (терминал MMI)</i2><linkfile>m_m00256.htm</linkfile><linkid>m_I2-0540</linkid></idx>
+<idx><i1>Частота</i1><linkfile>m_m00256.htm</linkfile><linkid>m_I1-0541</linkid></idx>
+<idx><i1>Поиск (радио)</i1><linkfile>m_m00256.htm</linkfile><linkid>m_I1-0542</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Воспроизведение</i2><linkfile>m_m00256.htm</linkfile><linkid>m_I2-0543</linkid></idx>
+<idx><i1>SCAN</i1><linkfile>m_m00256.htm</linkfile><linkid>m_I1-0544</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Сохранение</i2><linkfile>m_m00257.htm</linkfile><linkid>m_I2-0545</linkid></idx>
+<idx><i1>Память (радио)</i1><i2>Сохранение станции</i2><linkfile>m_m00257.htm</linkfile><linkid>m_I2-0546</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Перемещение</i2><linkfile>m_m00258.htm</linkfile><linkid>m_I2-0547</linkid></idx>
+<idx><i1>Память (радио)</i1><i2>Перемещение станции</i2><linkfile>m_m00258.htm</linkfile><linkid>m_I2-0548</linkid></idx>
+<idx><i1>Радиотекст</i1><linkfile>m_m00259.htm</linkfile><linkid>m_I1-0549</linkid></idx>
+<idx><i1>Дополнительная информация (DAB)</i1><linkfile>m_m00260.htm</linkfile><linkid>m_I1-0550</linkid></idx>
+<idx><i1>DAB (цифровое радио)</i1><i2>Слайд-шоу</i2><linkfile>m_m00260.htm</linkfile><linkid>m_I2-0551</linkid></idx>
+<idx><i1>DAB (цифровое радио)</i1><i2>Радиотекст</i2><linkfile>m_m00260.htm</linkfile><linkid>m_I2-0552</linkid></idx>
+<idx><i1>Дорожное радио</i1><linkfile>m_m00262.htm</linkfile><linkid>m_I1-0553</linkid></idx>
+<idx><i1>Сообщения о дорожной ситуации</i1><linkfile>m_m00262.htm</linkfile><linkid>m_I1-0554</linkid></idx>
+<idx><i1>TP</i1><linkfile>m_m00262.htm</linkfile><linkid>m_I1-0555</linkid></idx>
+<idx><i1>Региональные радиостанции (региональная программа)</i1><linkfile>m_m00263.htm</linkfile><linkid>m_I1-0556</linkid></idx>
+<idx><i1>Название радиостанции (радио)</i1><linkfile>m_m00264.htm</linkfile><linkid>m_I1-0557</linkid></idx>
+<idx><i1>Сортировка радиостанций (радио)</i1><linkfile>m_m00265.htm</linkfile><linkid>m_I1-0558</linkid></idx>
+<idx><i1>Память (радио)</i1><i2>Сортировка радиостанций</i2><linkfile>m_m00265.htm</linkfile><linkid>m_I2-0559</linkid></idx>
+<idx><i1>Память (радио)</i1><i2>Удаление радиостанций</i2><linkfile>m_m00266.htm</linkfile><linkid>m_I2-0560</linkid></idx>
+<idx><i1>Поддержание сигнала приема (радио)</i1><linkfile>m_m00267.htm</linkfile><linkid>m_I1-0561</linkid></idx>
+<idx><i1>Диапазон L (DAB)</i1><linkfile>m_m00268.htm</linkfile><linkid>m_I1-0562</linkid></idx>
+<idx><i1>Диапазон III (DAB)</i1><linkfile>m_m00268.htm</linkfile><linkid>m_I1-0563</linkid></idx>
+<idx><i1>CD/DVD</i1><i2>Управление</i2><linkfile>m_h00269.htm</linkfile><linkid>m_I2-0564</linkid></idx>
+<idx><i1>iPod</i1><i2>Управление</i2><linkfile>m_h00269.htm</linkfile><linkid>m_I2-0565</linkid></idx>
+<idx><i1>Плата памяти</i1><i2>Управление</i2><linkfile>m_h00269.htm</linkfile><linkid>m_I2-0566</linkid></idx>
+<idx><i1>Audi music interface</i1><i2>Управление</i2><linkfile>m_h00269.htm</linkfile><linkid>m_I2-0567</linkid></idx>
+<idx><i1>Аудиоплеер с «Bluetooth»</i1><i2>Управление</i2><linkfile>m_h00269.htm</linkfile><linkid>m_I2-0568</linkid></idx>
+<idx><i1>Включение аудиоисточника</i1><i2>Терминал МMI</i2><linkfile>m_m00271.htm</linkfile><linkid>m_I2-0569</linkid></idx>
+<idx><i1>Включение режима носителей данных</i1><i2>Терминал MMI</i2><linkfile>m_m00271.htm</linkfile><linkid>m_I2-0570</linkid></idx>
+<idx><i1>Выбор источника</i1><i2>Терминал MMI</i2><linkfile>m_m00272.htm</linkfile><linkid>m_I2-0571</linkid></idx>
+<idx><i1>Папка</i1><i2>Выбор (терминал MMI)</i2><linkfile>m_m00273.htm</linkfile><linkid>m_I2-0572</linkid></idx>
+<idx><i1>Аудио-/видеофайлы</i1><i2>Выбор (терминал MMI)</i2><linkfile>m_m00273.htm</linkfile><linkid>m_I2-0573</linkid></idx>
+<idx><i1>Основные функции</i1><i2>Носители данных</i2><linkfile>m_m00274.htm</linkfile><linkid>m_I2-0574</linkid></idx>
+<idx><i1>Пауза (дисковод)</i1><i2>Терминал MMI</i2><linkfile>m_m00275.htm</linkfile><linkid>m_I2-0575</linkid></idx>
+<idx><i1>Приостановка/возобновление воспроизведения</i1><i2>Терминал MMI</i2><linkfile>m_m00275.htm</linkfile><linkid>m_I2-0576</linkid></idx>
+<idx><i1>Дорожка</i1><i2>Выбор следующей/предыдущей дорожки</i2><linkfile>m_m00276.htm</linkfile><linkid>m_I2-0577</linkid></idx>
+<idx><i1>DVD</i1><i2>Выбор следующего/предыдущего раздела</i2><linkfile>m_m00276.htm</linkfile><linkid>m_I2-0578</linkid></idx>
+<idx><i1>Выбор следующего/предыдущего раздела (DVD)</i1><linkfile>m_m00276.htm</linkfile><linkid>m_I1-0579</linkid></idx>
+<idx><i1>Дорожка</i1><i2>Прокрутка вперед/назад</i2><linkfile>m_m00277.htm</linkfile><linkid>m_I2-0580</linkid></idx>
+<idx><i1>Прокрутка назад</i1><linkfile>m_m00277.htm</linkfile><linkid>m_I1-0581</linkid></idx>
+<idx><i1>Прокрутка вперед</i1><linkfile>m_m00277.htm</linkfile><linkid>m_I1-0582</linkid></idx>
+<idx><i1>Информация о дорожке</i1><linkfile>m_m00278.htm</linkfile><linkid>m_I1-0583</linkid></idx>
+<idx><i1>Дорожка</i1><i2>Информация о дорожке</i2><linkfile>m_m00278.htm</linkfile><linkid>m_I2-0584</linkid></idx>
+<idx><i1>Браузер альбомов</i1><linkfile>m_m00279.htm</linkfile><linkid>m_I1-0585</linkid></idx>
+<idx><i1>Пролистывание обложек альбомов</i1><linkfile>m_m00279.htm</linkfile><linkid>m_I1-0586</linkid></idx>
+<idx><i1>DVD-диск</i1><i2>Основное меню</i2><linkfile>m_m00280.htm</linkfile><linkid>m_I2-0587</linkid></idx>
+<idx><i1>Основное меню (DVD-диск)</i1><linkfile>m_m00280.htm</linkfile><linkid>m_I1-0588</linkid></idx>
+<idx><i1>DVD</i1><i2>Полноэкранное изображение</i2><linkfile>m_m00281.htm</linkfile><linkid>m_I2-0589</linkid></idx>
+<idx><i1>Видеофайл</i1><i2>Полноэкранное изображение</i2><linkfile>m_m00281.htm</linkfile><linkid>m_I2-0590</linkid></idx>
+<idx><i1>Полноэкранное изображение</i1><i2>DVD</i2><linkfile>m_m00281.htm</linkfile><linkid>m_I2-0591</linkid></idx>
+<idx><i1>Полноэкранное изображение</i1><i2>Видеофайл</i2><linkfile>m_m00281.htm</linkfile><linkid>m_I2-0592</linkid></idx>
+<idx><i1>DVD-диск</i1><i2>Блокировка от детей</i2><linkfile>m_m00282.htm</linkfile><linkid>m_I2-0593</linkid></idx>
+<idx><i1>Блокировка от детей (DVD-диск)</i1><linkfile>m_m00282.htm</linkfile><linkid>m_I1-0594</linkid></idx>
+<idx><i1>Папка</i1><i2>Повтор</i2><linkfile>m_m00284.htm</linkfile><linkid>m_I2-0595</linkid></idx>
+<idx><i1>Диапазон повтора</i1><linkfile>m_m00284.htm</linkfile><linkid>m_I1-0596</linkid></idx>
+<idx><i1>Звуковая дорожка</i1><i2>Повтор</i2><linkfile>m_m00284.htm</linkfile><linkid>m_I2-0597</linkid></idx>
+<idx><i1>Воспроизведение в случайном порядке</i1><linkfile>m_m00285.htm</linkfile><linkid>m_I1-0598</linkid></idx>
+<idx><i1>Дорожка</i1><i2>Воспроизведение в случайном порядке</i2><linkfile>m_m00285.htm</linkfile><linkid>m_I2-0599</linkid></idx>
+<idx><i1>Индикация трека</i1><linkfile>m_m00286.htm</linkfile><linkid>m_I1-0600</linkid></idx>
+<idx><i1>Дорожка</i1><i2>Индикация трека</i2><linkfile>m_m00286.htm</linkfile><linkid>m_I2-0601</linkid></idx>
+<idx><i1>Отображение информации о дорожке</i1><linkfile>m_m00287.htm</linkfile><linkid>m_I1-0602</linkid></idx>
+<idx><i1>Дорожка</i1><i2>Отображение информации о дорожке</i2><linkfile>m_m00287.htm</linkfile><linkid>m_I2-0603</linkid></idx>
+<idx><i1>Настройка аудиодорожки</i1><linkfile>m_m00288.htm</linkfile><linkid>m_I1-0604</linkid></idx>
+<idx><i1>DVD</i1><i2>Аудиодорожка</i2><linkfile>m_m00288.htm</linkfile><linkid>m_I2-0605</linkid></idx>
+<idx><i1>Видеофайл</i1><i2>Аудиодорожка</i2><linkfile>m_m00288.htm</linkfile><linkid>m_I2-0606</linkid></idx>
+<idx><i1>Субтитры (DVD)</i1><linkfile>m_m00289.htm</linkfile><linkid>m_I1-0607</linkid></idx>
+<idx><i1>DVD</i1><i2>Субтитры</i2><linkfile>m_m00289.htm</linkfile><linkid>m_I2-0608</linkid></idx>
+<idx><i1>Видеофайл</i1><i2>Субтитры</i2><linkfile>m_m00289.htm</linkfile><linkid>m_I2-0609</linkid></idx>
+<idx><i1>Формат изображения</i1><linkfile>m_m00290.htm</linkfile><linkid>m_I1-0610</linkid></idx>
+<idx><i1>Настройки экрана</i1><i2>Видеофайл/DVD</i2><linkfile>m_m00290.htm</linkfile><linkid>m_I2-0611</linkid></idx>
+<idx><i1>Внешний видеовход</i1><i2>Настройки экрана</i2><linkfile>m_m00291.htm</linkfile><linkid>m_I2-0612</linkid></idx>
+<idx><i1>Настройки экрана</i1><i2>Внешний видеовход</i2><linkfile>m_m00291.htm</linkfile><linkid>m_I2-0613</linkid></idx>
+<idx><i1>Внешний видеовход</i1><i2>А/В-стандарт</i2><linkfile>m_m00292.htm</linkfile><linkid>m_I2-0614</linkid></idx>
+<idx><i1>А/В-стандарт</i1><i2>Внешний видеовход</i2><linkfile>m_m00292.htm</linkfile><linkid>m_I2-0615</linkid></idx>
+<idx><i1>Уровень сигнала на входе</i1><linkfile>m_m00293.htm</linkfile><linkid>m_I1-0616</linkid></idx>
+<idx><i1>iPod</i1><i2>Уровень сигнала на входе</i2><linkfile>m_m00293.htm</linkfile><linkid>m_I2-0617</linkid></idx>
+<synonym><siehe><begriff>Телевидение</begriff><i1>Включение режима телевидения</i1><linkfile>m_m00295.htm</linkfile><linkid>m_I1-0618</linkid></siehe></synonym>
+<idx><i1>Включение режима телевидения</i1><i2>Терминал MMI</i2><linkfile>m_m00296.htm</linkfile><linkid>m_I2-0619</linkid></idx>
+<idx><i1>Основные функции</i1><i2>Телевидение</i2><linkfile>m_m00297.htm</linkfile><linkid>m_I2-0620</linkid></idx>
+<idx><i1>ТВ-станция</i1><i2>Выбор</i2><linkfile>m_m00298.htm</linkfile><linkid>m_I2-0621</linkid></idx>
+<idx><i1>Память (ТВ)</i1><i2>Выбор станции</i2><linkfile>m_m00298.htm</linkfile><linkid>m_I2-0622</linkid></idx>
+<idx><i1>ТВ-станции</i1><i2>Следующая станция</i2><linkfile>m_m00299.htm</linkfile><linkid>m_I2-0623</linkid></idx>
+<idx><i1>Настройка ТВ-станции</i1><i2>Терминал MMI</i2><linkfile>m_m00299.htm</linkfile><linkid>m_I2-0624</linkid></idx>
+<idx><i1>ТВ-станция</i1><i2>Сохранение</i2><linkfile>m_m00300.htm</linkfile><linkid>m_I2-0625</linkid></idx>
+<idx><i1>Память (ТВ)</i1><i2>Сохранение станции</i2><linkfile>m_m00300.htm</linkfile><linkid>m_I2-0626</linkid></idx>
+<idx><i1>ТВ-станция</i1><i2>Перемещение</i2><linkfile>m_m00301.htm</linkfile><linkid>m_I2-0627</linkid></idx>
+<idx><i1>Память (ТВ)</i1><i2>Перемещение станции</i2><linkfile>m_m00301.htm</linkfile><linkid>m_I2-0628</linkid></idx>
+<idx><i1>Дисплей MMI</i1><i2>Изображение ТВ</i2><linkfile>m_m00302.htm</linkfile><linkid>m_I2-0629</linkid></idx>
+<idx><i1>Помехи при приеме</i1><linkfile>m_m00302.htm</linkfile><linkid>m_I1-0630</linkid></idx>
+<synonym><siehe><begriff>EPG</begriff><i1>EPG (информация по передаче)</i1><linkfile>m_m00303.htm</linkfile><linkid>m_I1-0631</linkid></siehe></synonym>
+<idx><i1>EPG (информация по передаче)</i1><linkfile>m_m00303.htm</linkfile><linkid>m_I1-0632</linkid></idx>
+<idx><i1>Телетекст</i1><i2>Открытие страницы</i2><linkfile>m_m00304.htm</linkfile><linkid>m_I2-0633</linkid></idx>
+<idx><i1>Телетекст</i1><i2>Ввод номера страницы</i2><linkfile>m_m00304.htm</linkfile><linkid>m_I2-0634</linkid></idx>
+<idx><i1>Полноэкранное изображение</i1><i2>ТВ</i2><linkfile>m_m00305.htm</linkfile><linkid>m_I2-0635</linkid></idx>
+<idx><i1>Выбор А/В-входа</i1><i2>Терминал МMI</i2><linkfile>m_m00306.htm</linkfile><linkid>m_I2-0636</linkid></idx>
+<idx><i1>Память (ТВ)</i1><i2>Удаление ТВ-станций</i2><linkfile>m_m00308.htm</linkfile><linkid>m_I2-0637</linkid></idx>
+<idx><i1>Звуковой канал (многоканальный звук)</i1><linkfile>m_m00309.htm</linkfile><linkid>m_I1-0638</linkid></idx>
+<idx><i1>Многоканальный звук</i1><linkfile>m_m00309.htm</linkfile><linkid>m_I1-0639</linkid></idx>
+<idx><i1>Поддержание сигнала приема (ТВ)</i1><linkfile>m_m00310.htm</linkfile><linkid>m_I1-0640</linkid></idx>
+<idx><i1>Телетекст</i1><i2>Увеличение изображения</i2><linkfile>m_m00311.htm</linkfile><linkid>m_I2-0641</linkid></idx>
+<idx><i1>Настройки экрана</i1><i2>ТВ-тюнер</i2><linkfile>m_m00312.htm</linkfile><linkid>m_I2-0642</linkid></idx>
+<idx><i1>Телевизионный стандарт</i1><linkfile>m_m00313.htm</linkfile><linkid>m_I1-0643</linkid></idx>
+<idx><i1>А/В-стандарт</i1><i2>Внешний А/В-вход</i2><linkfile>m_m00314.htm</linkfile><linkid>m_I2-0644</linkid></idx>
+<idx><i1>Органы управления</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_h00316.htm</linkfile><linkid>m_I2-0645</linkid></idx>
+<idx><i1>Многофункциональное рулевое колесо</i1><linkfile>m_h00316.htm</linkfile><linkid>m_I1-0646</linkid></idx>
+<idx><i1>Информационная система для водителя</i1><linkfile>m_h00316.htm</linkfile><linkid>m_I1-0647</linkid></idx>
+<idx><i1>Клавиши</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_h00316.htm</linkfile><linkid>m_I2-0648</linkid></idx>
+<idx><i1>Органы управления</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00317.htm</linkfile><linkid>m_I2-0649</linkid></idx>
+<idx><i1>Многофункциональное рулевое колесо</i1><linkfile>m_m00317.htm</linkfile><linkid>m_I1-0650</linkid></idx>
+<idx><i1>Информационная система для водителя</i1><linkfile>m_m00317.htm</linkfile><linkid>m_I1-0651</linkid></idx>
+<idx><i1>Клавиши</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00317.htm</linkfile><linkid>m_I2-0652</linkid></idx>
+<idx><i1>Речевая клавиша (многофункциональное рулевое колесо)</i1><linkfile>m_m00318.htm</linkfile><linkid>m_I1-0653</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Включение/выключение</i2><linkfile>m_m00318.htm</linkfile><linkid>m_I2-0654</linkid></idx>
+<idx><i1>Принцип управления</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00318.htm</linkfile><linkid>m_I2-0655</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00318.htm</linkfile><linkid>m_I2-0656</linkid></idx>
+<idx><i1>Mute</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00318.htm</linkfile><linkid>m_I2-0657</linkid></idx>
+<idx><i1>Отключение звука</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00318.htm</linkfile><linkid>m_I2-0658</linkid></idx>
+<idx><i1>Пользование телефоном</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00320.htm</linkfile><linkid>m_I2-0659</linkid></idx>
+<idx><i1>Списки вызовов</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00321.htm</linkfile><linkid>m_I2-0660</linkid></idx>
+<idx><i1>Включение режима пользования телефоном</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00321.htm</linkfile><linkid>m_I2-0661</linkid></idx>
+<idx><i1>Набранные номера</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00321.htm</linkfile><linkid>m_I2-0662</linkid></idx>
+<idx><i1>Принятые вызовы</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00321.htm</linkfile><linkid>m_I2-0663</linkid></idx>
+<idx><i1>Пропущенные вызовы</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00321.htm</linkfile><linkid>m_I2-0664</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00321.htm</linkfile><linkid>m_I2-0665</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Вызов (многофункциональное рулевое колесо)</i2><linkfile>m_m00322.htm</linkfile><linkid>m_I2-0666</linkid></idx>
+<idx><i1>Вызов абонента</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00322.htm</linkfile><linkid>m_I2-0667</linkid></idx>
+<idx><i1>Набор телефонного номера</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00322.htm</linkfile><linkid>m_I2-0668</linkid></idx>
+<idx><i1>Окончание сеанса связи</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00322.htm</linkfile><linkid>m_I2-0669</linkid></idx>
+<idx><i1>Последние вызовы</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00322.htm</linkfile><linkid>m_I2-0670</linkid></idx>
+<idx><i1>Вызов другого абонента</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00322.htm</linkfile><linkid>m_I2-0671</linkid></idx>
+<idx><i1>Прием/отклонение вызова</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00323.htm</linkfile><linkid>m_I2-0672</linkid></idx>
+<idx><i1>Опции</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00324.htm</linkfile><linkid>m_I2-0673</linkid></idx>
+<idx><i1>Перевод сеанса связи в режим ожидания/продолжение сеанса связи</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00324.htm</linkfile><linkid>m_I2-0674</linkid></idx>
+<idx><i1>Попеременный сеанс связи с двумя абонентами</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00324.htm</linkfile><linkid>m_I2-0675</linkid></idx>
+<idx><i1>Опции</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00325.htm</linkfile><linkid>m_I2-0676</linkid></idx>
+<idx><i1>Переключение сеанса связи</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00325.htm</linkfile><linkid>m_I2-0677</linkid></idx>
+<idx><i1>Навигация</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00327.htm</linkfile><linkid>m_I2-0678</linkid></idx>
+<idx><i1>Компас</i1><linkfile>m_m00327.htm</linkfile><linkid>m_I1-0679</linkid></idx>
+<idx><i1>Настройка изображения процесса навигации</i1><linkfile>m_m00328.htm</linkfile><linkid>m_I1-0680</linkid></idx>
+<idx><i1>Речевые инструкции навигационной системы</i1><i2>Повтор</i2><linkfile>m_m00329.htm</linkfile><linkid>m_I2-0681</linkid></idx>
+<idx><i1>Включение режима радио</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00331.htm</linkfile><linkid>m_I2-0682</linkid></idx>
+<idx><i1>Настройка диапазона приема</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00332.htm</linkfile><linkid>m_I2-0683</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Настройка (многофункциональное рулевое колесо)</i2><linkfile>m_m00333.htm</linkfile><linkid>m_I2-0684</linkid></idx>
+<idx><i1>Включение режима носителей данных</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00335.htm</linkfile><linkid>m_I2-0685</linkid></idx>
+<idx><i1>Выбор источника</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00336.htm</linkfile><linkid>m_I2-0686</linkid></idx>
+<idx><i1>Папка</i1><i2>Выбор (многофункциональное рулевое колесо)</i2><linkfile>m_m00337.htm</linkfile><linkid>m_I2-0687</linkid></idx>
+<idx><i1>Аудио-/видеофайлы</i1><i2>Выбор (многофункциональное рулевое колес)</i2><linkfile>m_m00337.htm</linkfile><linkid>m_I2-0688</linkid></idx>
+<idx><i1>Пауза (дисковод)</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00338.htm</linkfile><linkid>m_I2-0689</linkid></idx>
+<idx><i1>Приостановка/возобновление воспроизведения</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00338.htm</linkfile><linkid>m_I2-0690</linkid></idx>
+<idx><i1>Включение режима ТВ</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00340.htm</linkfile><linkid>m_I2-0691</linkid></idx>
+<idx><i1>Настройка ТВ-станции</i1><i2>Многофункциональное рулевое колесо</i2><linkfile>m_m00341.htm</linkfile><linkid>m_I2-0692</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><linkfile>m_h00343.htm</linkfile><linkid>m_I1-0693</linkid></idx>
+<idx><i1>Включение/выключение</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00346.htm</linkfile><linkid>m_I2-0694</linkid></idx>
+<idx><i1>Речевая клавиша (многофункциональное рулевое колесо)</i1><linkfile>m_m00346.htm</linkfile><linkid>m_I1-0695</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Виды команд</i2><linkfile>m_m00347.htm</linkfile><linkid>m_I2-0696</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Команды помощи</i2><linkfile>m_m00347.htm</linkfile><linkid>m_I2-0697</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Выбор контакта из перечня</i2><linkfile>m_m00347.htm</linkfile><linkid>m_I2-0698</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Регулировка громкости</i2><linkfile>m_m00347.htm</linkfile><linkid>m_I2-0699</linkid></idx>
+<idx><i1>Регулировка громкости</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00347.htm</linkfile><linkid>m_I2-0700</linkid></idx>
+<idx><i1>Принцип управления</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00347.htm</linkfile><linkid>m_I2-0701</linkid></idx>
+<idx><i1>Пользование телефоном</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00349.htm</linkfile><linkid>m_I2-0702</linkid></idx>
+<idx><i1>Включение режима пользования телефоном</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00349.htm</linkfile><linkid>m_I2-0703</linkid></idx>
+<idx><i1>Выбор телефонного номера</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00350.htm</linkfile><linkid>m_I2-0704</linkid></idx>
+<idx><i1>Вызов абонента</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00351.htm</linkfile><linkid>m_I2-0705</linkid></idx>
+<idx><i1>Повторный набор</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00352.htm</linkfile><linkid>m_I2-0706</linkid></idx>
+<idx><i1>Списки вызовов</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00352.htm</linkfile><linkid>m_I2-0707</linkid></idx>
+<idx><i1>Пропущенные вызовы</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00352.htm</linkfile><linkid>m_I2-0708</linkid></idx>
+<idx><i1>Набранные номера</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00352.htm</linkfile><linkid>m_I2-0709</linkid></idx>
+<idx><i1>Принятые вызовы</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00352.htm</linkfile><linkid>m_I2-0710</linkid></idx>
+<idx><i1>PIN-код (SIM-карта)</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00352.htm</linkfile><linkid>m_I2-0711</linkid></idx>
+<idx><i1>PUK-код</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00352.htm</linkfile><linkid>m_I2-0712</linkid></idx>
+<idx><i1>Адресная книга</i1><i2>Речевая диалоговая система</i2><linkfile>m_k00353.htm</linkfile><linkid>m_I2-0713</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Поиск (речевая диалоговая система)</i2><linkfile>m_m00355.htm</linkfile><linkid>m_I2-0714</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Вызов абонента (речевая диалоговая система)</i2><linkfile>m_m00355.htm</linkfile><linkid>m_I2-0715</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Навигация (речевая диалоговая система)</i2><linkfile>m_m00355.htm</linkfile><linkid>m_I2-0716</linkid></idx>
+<idx><i1>Речевые адреса</i1><i2>Вызов абонента</i2><linkfile>m_m00355.htm</linkfile><linkid>m_I2-0717</linkid></idx>
+<idx><i1>Речевые адреса</i1><i2>Навигация к контакту</i2><linkfile>m_m00355.htm</linkfile><linkid>m_I2-0718</linkid></idx>
+<idx><i1>Речевые адреса</i1><i2>Поиск</i2><linkfile>m_m00355.htm</linkfile><linkid>m_I2-0719</linkid></idx>
+<idx><i1>Речевые адреса</i1><i2>Сохранение</i2><linkfile>m_m00356.htm</linkfile><linkid>m_I2-0720</linkid></idx>
+<idx><i1>Речевая диалоговая система</i1><i2>Сохранение речевого адреса</i2><linkfile>m_m00356.htm</linkfile><linkid>m_I2-0721</linkid></idx>
+<idx><i1>Речевые адреса</i1><i2>Прочтение</i2><linkfile>m_m00357.htm</linkfile><linkid>m_I2-0722</linkid></idx>
+<idx><i1>Навигация</i1><i2>Речевая диалоговая система</i2><linkfile>m_k00358.htm</linkfile><linkid>m_I2-0723</linkid></idx>
+<idx><i1>Включение режима навигации</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00359.htm</linkfile><linkid>m_I2-0724</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00360.htm</linkfile><linkid>m_I2-0725</linkid></idx>
+<idx><i1>Ввод особых целей</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00361.htm</linkfile><linkid>m_I2-0726</linkid></idx>
+<idx><i1>Картографическое изображение</i1><linkfile>m_m00362.htm</linkfile><linkid>m_I1-0727</linkid></idx>
+<idx><i1>Ориентация на карте</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00362.htm</linkfile><linkid>m_I2-0728</linkid></idx>
+<idx><i1>Тип карты</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00362.htm</linkfile><linkid>m_I2-0729</linkid></idx>
+<idx><i1>Автоматическое масштабирование</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00362.htm</linkfile><linkid>m_I2-0730</linkid></idx>
+<idx><i1>Ориентация (карта)</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00362.htm</linkfile><linkid>m_I2-0731</linkid></idx>
+<idx><i1>Цвета карты</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00362.htm</linkfile><linkid>m_I2-0732</linkid></idx>
+<idx><i1>Содержание карты</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00362.htm</linkfile><linkid>m_I2-0733</linkid></idx>
+<idx><i1>Дополнительные данные на карте</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00362.htm</linkfile><linkid>m_I2-0734</linkid></idx>
+<idx><i1>Следование к цели</i1><i2>Включение (речевая диалоговая система)</i2><linkfile>m_m00363.htm</linkfile><linkid>m_I2-0735</linkid></idx>
+<idx><i1>Следование к цели</i1><i2>Отмена (речевая диалоговая система)</i2><linkfile>m_m00363.htm</linkfile><linkid>m_I2-0736</linkid></idx>
+<idx><i1>Динамический объезд пробок</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00363.htm</linkfile><linkid>m_I2-0737</linkid></idx>
+<idx><i1>Критерии маршрута</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00363.htm</linkfile><linkid>m_I2-0738</linkid></idx>
+<idx><i1>Контакт адресной книги</i1><i2>Навигация (речевая диалоговая система)</i2><linkfile>m_m00363.htm</linkfile><linkid>m_I2-0739</linkid></idx>
+<idx><i1>Последние цели</i1><i2>Загрузка (речевая диалоговая система)</i2><linkfile>m_m00363.htm</linkfile><linkid>m_I2-0740</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Фавориты (речевая диалоговая система)</i2><linkfile>m_m00363.htm</linkfile><linkid>m_I2-0741</linkid></idx>
+<idx><i1>Ввод цели</i1><i2>Загрузка последней цели (речевая диалоговая система)</i2><linkfile>m_m00363.htm</linkfile><linkid>m_I2-0742</linkid></idx>
+<idx><i1>Воспроизведение дорожных сообщений</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00365.htm</linkfile><linkid>m_I2-0743</linkid></idx>
+<idx><i1>Воспроизведение сообщения о дорожной ситуации TMC/TMCpro</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00366.htm</linkfile><linkid>m_I2-0744</linkid></idx>
+<idx><i1>Включение радио</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00368.htm</linkfile><linkid>m_I2-0745</linkid></idx>
+<idx><i1>Настройка диапазона приема</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00369.htm</linkfile><linkid>m_I2-0746</linkid></idx>
+<idx><i1>Радиостанция</i1><i2>Настройка (речевая диалоговая система)</i2><linkfile>m_m00370.htm</linkfile><linkid>m_I2-0747</linkid></idx>
+<idx><i1>Включение режима носителей данных</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00372.htm</linkfile><linkid>m_I2-0748</linkid></idx>
+<idx><i1>Выбор источника</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00373.htm</linkfile><linkid>m_I2-0749</linkid></idx>
+<idx><i1>Папка</i1><i2>Выбор (речевая диалоговая система)</i2><linkfile>m_m00374.htm</linkfile><linkid>m_I2-0750</linkid></idx>
+<idx><i1>Аудио-/видеофайлы</i1><i2>Выбор (речевая диалоговая система)</i2><linkfile>m_m00374.htm</linkfile><linkid>m_I2-0751</linkid></idx>
+<idx><i1>Включение режима ТВ</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00376.htm</linkfile><linkid>m_I2-0752</linkid></idx>
+<idx><i1>Настройка ТВ-станции</i1><i2>Речевая диалоговая система</i2><linkfile>m_m00377.htm</linkfile><linkid>m_I2-0753</linkid></idx>
+</index>

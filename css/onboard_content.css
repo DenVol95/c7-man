@@ -1,0 +1,367 @@
+@charset "utf-8";
+
+.navabsatz {
+							font-size:20px;
+							padding: 5px;
+							line-height: 22px;
+							border:1px solid #2A2A2A;
+}
+
+.nav {
+						color:#FF0000;
+						text-decoration:none;
+						
+}
+
+.navigation { 
+						margin:0px 0; 
+						padding:0px 0px 0px 12px; 
+						background: url("images/pfeil.gif") 0px 6px no-repeat; 
+						color:#FF0000;
+						text-decoration:none;
+						font-size:20px;
+  					font-weight:500;
+}
+
+.navigation:visited { 
+						margin:0px 0; 
+						padding:0px 0px 0px 12px; 
+						background: url("images/pfeil_visit.gif") 0px 6px no-repeat; 
+						color:#880000;
+						text-decoration:none;
+}
+
+.navigation:focus, .navigation:hover { 
+						margin:0px 0; 
+						padding:0px 0px 0px 12px; 
+						background:#FF0000 url("images/pfeil_over.gif") 0px 6px no-repeat; 
+						color:#FFFFFF;
+						text-decoration:none;
+}
+
+
+
+.navigation_back { 
+						margin-top:25px;
+						padding:0px 0px 0px 12px; 
+						background: url("images/pfeil_back_k.gif") 0px 4px no-repeat; 
+						color:#FF0000;
+						text-decoration:none;
+						font-size:14px;
+}
+
+.navigation_back:focus, .navigation_back:hover { 
+						background:#FF0000 url("images/pfeil_back_k_over.gif") 0px 4px no-repeat; 
+						color:#FFFFFF;
+}
+
+.kurzinfo {
+					color:#FFFFFF;	
+					font-size:16px;
+					font-weight:900;
+					line-height: 22px;
+						border:1px solid #2A2A2A;
+}
+
+.bild-titel, .tab-titel {
+						color:#FFFFFF;
+						text-decoration:none;
+						font-size:14px;
+}
+
+.gilt-fuer {
+						font-size:14px;
+						color:#828282;
+}
+
+sup.optional, sup.hoch {
+  					line-height: 0px;
+  					font-size: 80%;
+}
+
+sup.anm-pfx, sup.anm-verw {
+  					line-height: 0px;
+  					font-size: 80%;
+  					color:#828282;
+}
+sub.tief {
+  					line-height: 0px;
+  					font-size: 80%;
+}
+.anm {
+  					font-size:14px;
+  					color:#828282;
+  					padding: 5px;
+}
+
+dl.illu img { 
+						border:0px;
+}
+
+img {
+						border:0px;
+}
+
+.leg_vor		{ 
+						margin:0px 0; 
+						padding:0px 5px 0px 0px; 
+						background: url("images/pfeil_k_over.gif") center left no-repeat; 
+						color:#FF0000;
+						text-decoration:none;
+}
+
+.intern-verw { 
+						margin:0px 0; 
+						padding:0px 0px 0px 12px; 
+						background: url("images/pfeil_b.gif") 0px 4px no-repeat; 
+						color:#FF0000;
+						text-decoration:none;
+}
+
+.intern-verw:visited { 
+						margin:0px 0; 
+						padding:0px 0px 0px 12px; 
+						background: url("images/pfeil_b_visit.gif") 0px 4px no-repeat; 
+						color:#880000;
+						text-decoration:none;
+}
+
+.intern-verw:focus, .intern-verw:hover { 
+						margin:0px 0; 
+						padding:0px 0px 0px 12px; 
+						background:#FF0000 url("images/pfeil_b_over.gif") 0px 4px no-repeat; 
+						color:#FFFFFF;
+						text-decoration:none;
+}
+
+.abb-verw { 
+						margin:0px 0; 
+						padding:0px 0px 0px 18px; 
+						background: url("images/pic_zoom.gif") 0px 2px no-repeat; 
+						color:#FF0000;
+						text-decoration:none;
+}
+
+.abb-verw:visited { 
+						margin:0px 0; 
+						padding:0px 0px 0px 18px; 
+						background: url("images/pic_zoom_visit.gif") 0px 2px no-repeat; 
+						color:#880000;
+						text-decoration:none;
+}
+
+.abb-verw:focus, .abb-verw:hover { 
+						margin:0px 0; 
+						padding:0px 0px 0px 18px; 
+						background:#FF0000 url("images/pic_zoom_over.gif") 0px 2px no-repeat; 
+						color:#FFFFFF;
+						text-decoration:none;
+}
+
+.punkt, .punkt-k {
+						list-style-image:url("images/hinweis_punkt.gif"); 
+}	
+
+tr.erlaeutrg-k .punkt, tr.erlaeutrg-k .punkt-k  {
+						list-style-image:url("images/trans.gif"); 
+}
+
+tr.erlaeutrg-k .punkt-k {
+						margin-left:4px;
+}
+
+tr.erlaeutrg-k .absatz {
+						margin-bottom:0px;
+						padding:0px; 
+}
+
+div.kurzinfo .absatz {
+						margin-bottom:0px;
+}
+
+.taste {
+						font-size:80%;
+						border: 1px solid #FFFFFF;
+}
+
+a .taste {
+						border: 1px solid #FF0000;
+}
+
+a:hover .taste, a:focus .taste {
+						border: 1px solid #FFFFFF;
+}
+
+
+.hervor-wichtig, .display {
+						font-weight:900;
+}
+
+.hervor-betont {
+						font-style:italic; 
+}
+
+/* Allgemeine Blockelemente */
+
+.titel {
+						font-weight:900;
+						background: #222222;
+						padding: 5px;
+}
+
+.handlung {
+						padding:0px 10px 0px 18px;
+						background: url("images/step.gif") 2px 7px no-repeat;
+}	
+
+.absatz, .einleitg, .tabelle, .adresse, .disp-zeile, .zeilen, .aufzaehlg, .def-liste, .tab-titel {
+					padding: 5px;
+}
+
+.adressat {
+					font-weight:900;
+} 
+
+.disp-zeile {
+					font-weight:900;
+}
+
+li.punkt-k .absatz {
+						padding:0px;
+}
+
+.block {
+}
+
+
+
+/* Ende allgemeine Blockelemente */
+
+
+/* Anleitung */
+.anleitg {
+						font-size:16px;
+						line-height: 24px;
+						/*background:#161616;*/
+						border:1px solid #222222;
+}
+
+/* Ende Anleitung */
+
+/* Beschreibung */
+.beschreibg {
+						font-size:16px;
+						line-height: 22px;
+						border:1px solid #222222;
+}
+
+/* Ende Beschreubung */
+
+/* Vorwort, Nachwort, Einfuehrung, Spezialinfo */
+
+.vorwort, .einfuehrg, .nachwort, .spezial-info {
+						font-size:16px;
+						line-height: 22px;
+						border:1px solid #222222;
+}
+
+/* Ende Vorwort, Nachwort, Einfuehrung, Spezialinfo */
+
+/* Symbole */
+.farbe-schwarz, .farbe-gruen, .farbe-rot, .farbe-blau, .farbe-gelb, .farbe-orange {
+						background:#FFFFFF;
+						padding:1px;
+						font-size:80%;
+}
+.farbe-schwarz {
+						border:1px solid #666666;
+						color:#666666;
+}
+.farbe-gruen {
+						border:1px solid #00CC00;
+						color:#00CC00;
+}
+.farbe-rot {
+						border:1px solid #FF0000;
+						color:#FF0000;
+}
+.farbe-blau {
+						border:1px solid #0000FF;
+						color:#0000FF;
+}
+.farbe-gelb {
+						border:1px solid #FEB301;
+						color:#FEB301;
+}
+.farbe-orange {
+						border:1px solid #FF6600;
+						color:#FF6600;
+}
+
+
+.symbol-hinterlegt {
+						/* empty */
+}
+
+.symbol-normal {
+						/* empty */
+}
+
+/* Ende Symbole */
+
+
+/* Hinweise */
+.hinweise {
+						font-size:16px;
+}
+
+.achtung-link, .vorsicht-link, .umwelt-link, .hinweis-link {
+						margin-bottom:0px; 
+						padding:0px 0px 1px 28px; 
+						color:#FF0000;
+						text-decoration:none;
+						background:#000000;
+						font-weight:900;
+}
+
+.achtung-verw, .vorsicht-verw, .umwelt-verw, .hinweis-verw {
+						margin-bottom:0px; 
+						padding:0px 0px 1px 30px; 
+						color:#FF0000;
+						text-decoration:none;
+						background:#000000;
+}
+
+.achtung-verw:focus, .vorsicht-verw:focus, .umwelt-verw:focus, .hinweis-verw:focus, .achtung-verw:hover, .vorsicht-verw:hover, .umwelt-verw:hover, .hinweis-verw:hover, .achtung-link:focus, .vorsicht-link:focus, .umwelt-link:focus, .hinweis-link:focus, .achtung-link:hover, .vorsicht-link:hover, .umwelt-link:hover, .hinweis-link:hover {
+						background:#FF0000; 
+						color:#FFFFFF;
+						text-decoration:none;
+}
+
+.achtung-verw, .achtung-link {
+						background:#000000 url("images/achtung.gif") 1px 1px no-repeat; 
+						}
+.achtung-verw:focus, .achtung-verw:hover, .achtung-link:focus, .achtung-link:hover {
+						background:#FF0000 url("images/achtung_over.gif") 1px 1px no-repeat; 
+						}
+.vorsicht-verw, .vorsicht-link {
+						background:#000000 url("images/vorsicht.gif") 1px 1px no-repeat; 
+						}
+.vorsicht-verw:focus, .vorsicht-verw:hover, .vorsicht-link:focus, .vorsicht-link:hover {
+						background:#FF0000 url("images/vorsicht_over.gif") 1px 1px no-repeat; 
+						}
+.umwelt-verw, .umwelt-link {
+						background:#000000 url("images/umwelt.gif") 1px 1px no-repeat; 
+						}
+.umwelt-verw:focus, .umwelt-verw:hover, .umwelt-link:focus, .umwelt-link:hover {
+						background:#FF0000 url("images/umwelt_over.gif") 1px 1px no-repeat; 
+						}
+.hinweis-verw, .hinweis-link {
+						background:#000000 url("images/hinweis.gif") 1px 1px no-repeat; 
+						}
+.hinweis-verw:focus, .hinweis-verw:hover, .hinweis-link:focus, .hinweis-link:hover {
+						background:#FF0000 url("images/hinweis_over.gif") 1px 1px no-repeat; 
+						}
+
+/* Ende Hinweise */
+
